@@ -12,7 +12,7 @@
     :github => 'http://github.com/SerKnight',
     :project_1 => {
       :title => "E-Commerce - Online Store",
-      :description => "Worked in a team of three to build an online store from scratch, while focusing on a clean UI & UX with jQuery and CSS.",
+      :description => "Worked in a team of three to build an online store, focusing on a clean UI & UX with jQuery and CSS.",
       :url => 'https://github.com/SerKnight/store_engine',
       :what_to_look_for => ['Custom Authorization', 'Admin Dashboard', 'AWS Photo Storage']
     },
