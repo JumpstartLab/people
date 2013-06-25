@@ -30,5 +30,6 @@
     }
   },
   :resume => "http://raphaelio.herokuapp.com/resume.pdf",
+  :skype_username => "raphaelweiner",
   :references => ['Gary Bernhardt', 'Franklin Webber', 'Katrina Owen']
 }
