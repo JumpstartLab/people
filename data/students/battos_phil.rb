@@ -29,7 +29,7 @@
       :what_to_look_for => ['Twitter API', 'Real-time chat and question board', 'Separate "rooms" for each track']
     }
   },
-  :resume => "http://philbattos.herokuapp.com/Resume.pdf",
+  :resume => "http://philbattos.herokuapp.com/phil-battos-resume.pdf",
   :references => ['Robert Jackson', 'Timothy Clayton', 'Arjun Sharma'],
   :other_notes => ""
 }
