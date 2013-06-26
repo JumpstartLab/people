@@ -25,8 +25,8 @@ class Student
     end.sort_by{|s| s.last_name}
   end
 
-  attributes :first_name, :last_name, :email_address, :image_url,
-    :looking_for, :best_at, :looking_for_description, :locations,
+  attributes :first_name, :last_name, :email_address, :skype_username,
+    :image_url, :looking_for, :best_at, :looking_for_description, :locations,
     :resume, :references
 
   def name

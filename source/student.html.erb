@@ -6,6 +6,15 @@
         <%= image_tag 'email.png', :class => 'icon' %>
         <span class='icon_description'><%= student.email_address %></span>
       </a>
+    </li>
+    <% if student.skype_username %>
+    <li>
+      <a href='skype:<%= student.skype_username %>?chat'>
+        <%= image_tag 'skype.png', :class => 'icon' %>
+        <span class='icon_description'><%= student.skype_username %></span>
+      </a>
+    </li>
+    <% end %>
     <li>
       <a href='<%= student.github_url %>'>
         <%= image_tag 'github.gif', :class => 'icon' %>
