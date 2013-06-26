@@ -1,24 +1,24 @@
 <% content_for :aside do %>
   <%= image_tag student.image_url, class: "avatar", alt: student.name, width: 288, height: 288 %>
-        <ul>
-          <li>
-            <a href='mailto:<%= student.email_address %>'>
-              <%= image_tag 'email.png', :class => 'icon' %>
-              <span class='icon_description'><%= student.email_address %></span>
-            </a>
-          <li>
-            <a href='<%= student.github_url %>'>
-              <%= image_tag 'github.gif', :class => 'icon' %>
-              <span class='icon_description'>Github Repositories</span>
-            </a>
-          </li>
-          <li>
-            <a href='<%= student.resume %>'>
-              <%= image_tag 'paper.png', :class => 'icon' %>
-              <span class='icon_description'>Full Resume</span>
-            </a>
-          </li>
-        </ul>
+  <ul class="student-contact-info">
+    <li>
+      <a href='mailto:<%= student.email_address %>'>
+        <%= image_tag 'email.png', :class => 'icon' %>
+        <span class='icon_description'><%= student.email_address %></span>
+      </a>
+    <li>
+      <a href='<%= student.github_url %>'>
+        <%= image_tag 'github.gif', :class => 'icon' %>
+        <span class='icon_description'>Github Repositories</span>
+      </a>
+    </li>
+    <li>
+      <a href='<%= student.resume %>'>
+        <%= image_tag 'paper.png', :class => 'icon' %>
+        <span class='icon_description'>Full Resume</span>
+      </a>
+    </li>
+  </ul>
 <% end %>
 
 <% content_for :article do %>
