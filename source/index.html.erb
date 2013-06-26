@@ -1,24 +1,15 @@
-<section class="main student">
-  <div class="wrapper">
+<% content_for :aside do %>
+  <%= partial "student_filters" %>
+<% end %>
 
-      <aside>
-        <h1>gSchool</h1>
-        <%= partial "student_filters" %>
-      </aside>
+<% content_for :article do %>
+  <ul class="students-thumbs">
+    <%= partial "thumbnail/student", collection: Student.all %>
+  </ul>
 
-      <article>
+  <div style="clear: both;"></div>
 
-        <ul class="students-thumbs">
-          <%= partial "thumbnail/student", collection: Student.all %>
-        </ul>
-
-        <div style="clear: both;"></div>
-
-        <ul class="students">
-          <%= partial "summary/student", collection: Student.all %>
-        </ul>
-
-      </article>
-
-  </div>
-</section>
+  <ul class="students">
+    <%= partial "summary/student", collection: Student.all %>
+  </ul>
+<% end %>
