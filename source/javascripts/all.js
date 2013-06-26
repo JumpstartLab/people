@@ -1,5 +1,6 @@
+//= require jquery-2.0.2.js
+//= require jquery-ui-1.10.3.js
 //= require_tree .
-
 
 $(function() {
   resizeStudentContactInfo();
