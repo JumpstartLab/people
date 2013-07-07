@@ -25,7 +25,7 @@
     :project_3 => {
       :title => "BackChannel",
       :description => "A conference communication platform to keep participants and audience members connected during events.",
-      :url => 'http://github.com/philbattos/back_channel',
+      :url => 'http://github.com/philbattos/backchannel-app',
       :what_to_look_for => ['Twitter API', 'Real-time chat and question board', 'Separate "rooms" for each track']
     }
   },
