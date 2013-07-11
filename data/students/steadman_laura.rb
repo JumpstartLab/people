@@ -4,7 +4,7 @@
   :image_url => "/images/students/gschool0/laura.jpg",
   :email_address => "lauramsteadman@gmail.com",
   :skype_username => "laura.steadman4",
-  :looking_for_description => "As a full-stack Ruby on Rails developer, I want to work with a great team that values agile processes, code that is eloquent and well-tested, and pair-programming.",
+  :looking_for_description => "Laura has **accepted a position** with [Quick Left](http://www.quickleft.com/) in Boulder.\n\nAs a full-stack Ruby on Rails developer, I want to work with a great team that values agile processes, code that is eloquent and well-tested, and pair-programming.",
   :best_at => ["TDD for Ruby on Rails", 'Being a Team Player', 'Project Management'],
   :looking_for => ["a challenge", 'great teammates', "a company that values agile processes and the art of Ruby on Rails"],
   :locations => ["Denver, CO","Boulder, CO", "Remote"],

@@ -3,7 +3,7 @@
   :first_name => "Jennifer",
   :image_url => "/images/students/gschool0/jennifer.jpg",
   :email_address => "jen7maples@gmail.com",
-  :looking_for_description => "Jennifer has accepted a position with [TurboVote](http://turbovote.org) in Denver.\n\nApprenticeship with a development team that has high standards for quality code, testing and delivering great products.",
+  :looking_for_description => "Jennifer has **accepted a position** with [TurboVote](http://turbovote.org) in Denver.\n\nApprenticeship with a development team that has high standards for quality code, testing and delivering great products.",
   :best_at => ["Clear, concise and explicit code", 'Testing', 'Coordinating team'],
   :looking_for => ["Apprenticeship"],
   :locations => ["Denver, CO", "Boulder, CO", "Vancouver, BC", "Seattle, WA", "Anywhere", "International"],

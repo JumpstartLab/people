@@ -3,7 +3,7 @@
   :first_name => "Kareem",
   :email_address => "kareem@getuserwise.com",
   :image_url => "/images/students/gschool0/kareem.jpg",
-  :looking_for_description => "I'm interested in awesome companies that will provide me with the opportunity to work with engineers that truly love what they do and solve challenging problems on daily basis. Also, I'm looking for teams that are as enthusiastic about teaching as I am about learning.  This is critically important because it's a clear indication that the company is committed to their people's professional growth.",
+  :looking_for_description => "Kareem has **accepted a position** with [CardFlight](http://getcardflight.com) in NYC.\n\nI'm interested in awesome companies that will provide me with the opportunity to work with engineers that truly love what they do and solve challenging problems on daily basis. Also, I'm looking for teams that are as enthusiastic about teaching as I am about learning.  This is critically important because it's a clear indication that the company is committed to their people's professional growth.",
   :best_at => ["Problem solving", 'Being resourceful', 'Connecting the dots'],
   :looking_for => ["Full Stack development", "Pair-programming", "TDD"],
   :locations => ["New York, NY", "San Francisco, CA", "Chicago, IL"],
