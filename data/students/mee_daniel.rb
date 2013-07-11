@@ -28,14 +28,15 @@
     :project_2 => {
       :title => "Robofy",
       :description => "This was the 3rd iteration of our e-commerce project.  Building on a code base that had been worked on by two different teams over the course of a little over month, our team was tasked with first testing (the structurally unsound and largely untested code base) and then adding features to it.  The features we added revolved around the ability of the store to offer discounts and promotional codes.",
-      :url => 'http://github.com/bradpsheehan/daughter_of_store_engine',
+      :url => 'http://github.com/danmee10/daughter_of_store_engine',
       :what_to_look_for => ['promotion.js was my first attempt at a jQuery feature.  I know that the code could be refactored, but the functionality is solid.']
     },
     :project_3 => {
       :title => "Pink SoSE",
       :description => "This was the 2nd iteration of the e-commerce project.  Our mission was to turn the code base of the original e-commerce project into a multi-tenant store platform.",
-      :url => 'http://github.com/gschorkopf/sonofstore_engine',
-      :what_to_look_for => ['Please note my checkout.rb file, in the models directory. I wrote order to facilitate the transfer of information from the single payment/shipping information form to the three separate controllers that the information corresponded to.']
+      :url => 'http://github.com/danmee10/sonofstore_engine',
+      :what_to_look_for => ['Please note my checkout.rb file, in the models directory. I wrote this in order to facilitate the transfer of information from the single payment/shipping information form to the three separate controllers that the information corresponded to.',
+                            'Also note my most recent refactoring of the Signup.rb file in my models directory.  This moved the responsibility of the error message parsing out of the controller and spread them out over several helper methods in the model.']
     }
   },
   :resume => "https://docs.google.com/document/d/1036a0tAbJ3Y8xaBisCx4hR5-S4hBMIpsLqIYxpRVAEQ/edit?usp=sharing",

@@ -3,7 +3,8 @@
   :first_name => "Christopher",
   :email_address => "ChrisKnight.mail@gmail.com",
   :image_url => "/images/students/gschool0/chris.jpg",
-  :looking_for_description => "I am motivated to work alongside seasoned developers in a junior deveoper or apprenticeship position, and expand on all of my skills in Rails, Javascript, and HTML/CSS.",
+  :skype_username => "rehpotsirhcknight",
+  :looking_for_description => "I am motivated to work alongside seasoned developers in a junior deveoper or apprenticeship position, and expand on all of my skills in Ruby, Rails, Javascript, and HTML/CSS.",
   :best_at => ["Participating in a team,", "having accountability for my work,", "being professional and approachable."],
   :looking_for => ["TDD, Github, Agile development workplace.", "A product / company vision that I can stand behind.", "A team willing to mentor me in open-source participation."],
   :locations => ["Denver, CO", "Portland, OR", "Boulder, CO", "Austin, TX", "San Francisco, CA",  "Los Angeles, CA"],
@@ -11,7 +12,7 @@
     :github => 'http://github.com/SerKnight',
     :project_1 => {
       :title => "E-Commerce - Online Store",
-      :description => "Worked in a team of three to build an online store from scratch, while focusing on a clean UI & UX with jQuery and CSS.",
+      :description => "Worked in a team of three to build an online store, focusing on a clean UI & UX with jQuery and CSS.",
       :url => 'https://github.com/SerKnight/store_engine',
       :what_to_look_for => ['Custom Authorization', 'Admin Dashboard', 'AWS Photo Storage']
     },
@@ -28,7 +29,7 @@
       :what_to_look_for => ['Custom ActiveRecord Validations', 'Regular Expressions', 'Youtube Vimeo iFrame API']
     }
   },
-  :resume => "https://github.com/SerKnight/Resume/blob/master/knight_christopher_resume.pdf",
+  :resume => "https://github.com/SerKnight/Resume/blob/master/CKK_resume.pdf",
   :references => ['Lewis Parker, @parker_evi, http://www.earthvectors.com/', 'Jamie Van Leeuwen, http://www.linkedin.com/in/jvanlee'],
   :other_notes => "I am ready to become part of a cohesive team, and learn to push the highest quality code"
 }

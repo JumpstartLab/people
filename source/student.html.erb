@@ -1,73 +1,75 @@
-<section class="main student">
-  <div class="wrapper">
+<% content_for :aside do %>
+  <%= image_tag student.image_url, class: "avatar", alt: student.name, width: 288, height: 288 %>
+  <ul class="student-contact-info">
+    <li>
+      <a href='mailto:<%= student.email_address %>'>
+        <%= image_tag 'email.png', :class => 'icon' %>
+        <span class='icon_description'><%= student.email_address %></span>
+      </a>
+    </li>
+    <% if student.skype_username %>
+    <li>
+      <a href='skype:<%= student.skype_username %>?chat'>
+        <%= image_tag 'skype.png', :class => 'icon' %>
+        <span class='icon_description'><%= student.skype_username %></span>
+      </a>
+    </li>
+    <% end %>
+    <li>
+      <a href='<%= student.github_url %>'>
+        <%= image_tag 'github.gif', :class => 'icon' %>
+        <span class='icon_description'>Github Repositories</span>
+      </a>
+    </li>
+    <li>
+      <a href='<%= student.resume %>'>
+        <%= image_tag 'paper.png', :class => 'icon' %>
+        <span class='icon_description'>Full Resume</span>
+      </a>
+    </li>
+  </ul>
+<% end %>
 
-      <aside>
-        <%= image_tag student.image_url, class: "avatar", alt: student.name, width: 288, height: 288 %>
-        <ul>
-          <li>
-            <a href='mailto:<%= student.email_address %>'>
-              <%= image_tag 'email.png', :class => 'icon' %>
-              <span class='icon_description'><%= student.email_address %></span>
-            </a>
-          <li>
-            <a href='<%= student.github_url %>'>
-              <%= image_tag 'github.gif', :class => 'icon' %>
-              <span class='icon_description'>Github Repositories</span>
-            </a>
-          </li>
-          <li>
-            <a href='<%= student.resume %>'>
-              <%= image_tag 'paper.png', :class => 'icon' %>
-              <span class='icon_description'>Full Resume</span>
-            </a>
-          </li>
-        </ul>
-      </aside>
+<% content_for :article do %>
+  <h1><%= student.name %></h1>
+  <p><%= markdown(student.looking_for_description) %></p>
 
-      <article>
-
-        <h1><%= student.name %></h1>
-        <p><%= markdown(student.looking_for_description) %></p>
-
-        <div class="student-info">
-          <dl>
-            <dt>Best At</dt>
-            <% student.best_at.each do |best_at| %>
-              <dd><%= best_at %></dd>
-            <% end %>
-          </dl>
-          <dl>
-            <dt>Preferred Roles</dt>
-            <% student.looking_for.each do |looking_for| %>
-              <dd><%= looking_for %></dd>
-            <% end %>
-          </dl>
-          <dl>
-            <dt>Preferred Locations</dt>
-            <% student.locations.each do |location| %>
-              <dd><%= location.name %></dd>
-            <% end %>
-          </dl>
-        </div>
-
-        <h2>Portfolio</h2>
-
-        <% student.projects.each do |project| %>
-          <div class="project">
-            <img>
-            <h3><%= project.title %></h3>
-            <p><%= link_to project.url, project.url %></p>
-            <p><%= project.description %></p>
-            <dl>
-              <dt>What to look for</dt>
-              <% project.what_to_look_for.each do |look_for| %>
-                <dd><%= look_for %></dd>
-              <% end %>
-            </dl>
-          </div>
-
-        <% end %>
-      </article>
-
+  <div class="student-info">
+    <dl>
+      <dt>Best At</dt>
+      <% student.best_at.each do |best_at| %>
+        <dd><%= best_at %></dd>
+      <% end %>
+    </dl>
+    <dl>
+      <dt>Preferred Roles</dt>
+      <% student.looking_for.each do |looking_for| %>
+        <dd><%= looking_for %></dd>
+      <% end %>
+    </dl>
+    <dl>
+      <dt>Preferred Locations</dt>
+      <% student.locations.each do |location| %>
+        <dd><%= location.name %></dd>
+      <% end %>
+    </dl>
   </div>
-</section>
+
+  <h2>Portfolio</h2>
+
+  <% student.projects.each do |project| %>
+    <div class="project">
+      <img src="/images/github-project.png" />
+      <h3><%= project.title %></h3>
+      <p><%= link_to project.url, project.url %></p>
+      <p><%= project.description %></p>
+      <dl>
+        <dt>What to look for</dt>
+        <% project.what_to_look_for.each do |look_for| %>
+          <dd><%= look_for %></dd>
+        <% end %>
+      </dl>
+    </div>
+  <% end %>
+
+<% end %>

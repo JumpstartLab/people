@@ -17,11 +17,11 @@ describe Student do
       let(:location) { subject.locations.first }
 
       it "#name" do
-        location.name.should eq "Denver, CO"
+        location.name.should eq "Chicago, IL"
       end
 
       it "#slug" do
-        location.slug.should eq "denver-co"
+        location.slug.should eq "chicago-il"
       end
 
     end

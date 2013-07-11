@@ -7,7 +7,7 @@
     <!-- Use title if it's in the page YAML frontmatter -->
     <title>Portfolio</title>
 
-    <%= stylesheet_link_tag "normalize", "all", "styles" %>
+    <%= stylesheet_link_tag "normalize", "all", "jquery-ui-1.10.3.custom.css", "styles" %>
     <link href="/webfonts/ss-social.css" rel="stylesheet" />
     <link href="/webfonts/ss-standard.css" rel="stylesheet" />
     <link href="/webfonts/github-octicons.css" rel="stylesheet" />
@@ -19,6 +19,19 @@
   </head>
 
   <body>
-      <%= yield %>
+    <section class="main student">
+      <div class="wrapper">
+        <aside>
+          <h1>
+            <a href="/">
+              <img width="250" src="/images/people-jsl.png" />
+            </a>
+          </h1>
+          <%= yield_content :aside %>
+        </aside>
+
+        <article>
+          <%= yield_content :article %>
+        </article>
   </body>
 </html>
