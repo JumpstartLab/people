@@ -3,7 +3,7 @@
   :first_name => "Paul",
   :email_address => "pnblackwell@gmail.com",
   :image_url => "/images/students/gschool0/paul.jpg",
-  :looking_for_description => "I'm looking for a company with a great mission and culture that also focuses toward running on the best code possible. I want to contribute as a full-stack developer and I would absolutely love to work at a company that has a strong mobile foothold.",
+  :looking_for_description => "Paul has **accepted a position** with [EverFi](http://everfi.com) in Washington, DC.\n\nI'm looking for a company with a great mission and culture that also focuses toward running on the best code possible. I want to contribute as a full-stack developer and I would absolutely love to work at a company that has a strong mobile foothold.",
   :best_at => ["Working in a team", 'Ruby on Rails'],
   :looking_for => ["A startup"],
   :locations => ["New York, NY", "Washington DC", "San Francisco, CA", "Austin, TX", "Anywhere"],

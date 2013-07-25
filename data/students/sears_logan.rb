@@ -3,7 +3,7 @@
     :first_name => "Logan",
     :image_url => "/images/students/gschool0/logan.jpg",
     :email_address => "lsears322@gmail.com",
-    :looking_for_description => "I want to place myself in an environment where everything I do works toward honing my craft as a software developer. Pair programming, TDD, and clean code principles are incredibly important to me and I want to work with other developers who encourage and value these principles as much as I do.",
+    :looking_for_description => "Logan has **accepted a position** with [iTriage](http://itriage.com) in Denver.\n\nI want to place myself in an environment where everything I do works toward honing my craft as a software developer. Pair programming, TDD, and clean code principles are incredibly important to me and I want to work with other developers who encourage and value these principles as much as I do.",
     :best_at => ['Backend Development', 'Background Jobs/Workers', 'TDD'],
     :looking_for => ['Junior Developer', 'Apprentice'],
     :locations => ["Denver, CO", "San Francisco, CA", "Chicago, IL", "Boston, MA"],

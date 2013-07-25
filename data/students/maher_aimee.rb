@@ -4,7 +4,7 @@
   :image_url => "/images/students/gschool0/aimee.jpg",
   :email_address => "aimee@geekycheeks.com",
   :skype_username => "maher.aimee",
-  :looking_for_description => "I would like to find work at a place that believes in empowering their developers
+  :looking_for_description => "Aimee has **accepted a position** with [iTriage](http://itriage.com) in Denver.\n\nI would like to find work at a place that believes in empowering their developers
 to continue learning. My strengths lie in design and creativity and I would like to
 be able to continue to build on my existing knowledge of Rails. I am interested in
 being a full-stack developer and I would like to work for a company that will help

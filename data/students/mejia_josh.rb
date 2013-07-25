@@ -4,7 +4,7 @@
   :image_url => "/images/students/gschool0/josh.jpg",
   :email_address => "joshua.mejia@gmail.com",
   :skype_username => "josh.m.mejia",
-  :looking_for_description => "To surround myself with a talented and passionate team where I can collaborate on challenging problems and learn new perspectives. I have a strong interest and natural intuition for software architecture that I am eager to continue developing. I’m also looking for an environment where pairing is encouraged and there is a strong focus on quality.",
+  :looking_for_description => "Josh has **accepted a position** with [Comverge](http://comverge.com) in Denver.\n\nTo surround myself with a talented and passionate team where I can collaborate on challenging problems and learn new perspectives. I have a strong interest and natural intuition for software architecture that I am eager to continue developing. I’m also looking for an environment where pairing is encouraged and there is a strong focus on quality.",
   :best_at => ['Ruby on Rails', 'Interpreting client requirements', 'Fullstack'],
   :looking_for => ["Pairing Encouraged", 'TDD'],
   :locations => ["Denver, CO", "Boulder, CO"],

@@ -4,7 +4,7 @@
   :first_name => "Elaine",
   :image_url => "/images/students/gschool0/elaine.jpg",
   :email_address => "elaine.tai96@gmail.com",
-  :looking_for_description => "I'm looking for a fullstack Ruby on Rails position at a company that values TDD, agile development, code quality, and pair programming.",
+  :looking_for_description => "Elaine has **accepted a position** with [Pivotal Labs](http://pivotallabs.com) in Denver.\n\nI'm looking for a fullstack Ruby on Rails position at a company that values TDD, agile development, code quality, and pair programming.",
   :best_at => ["Ruby on Rails", 'TDD', 'pairing'],
   :looking_for => ["Fullstack Developer"],
   :locations => ["Boulder, CO", "Denver, CO", "International", "New York, NY", "Austin, TX", "Washington DC"],
