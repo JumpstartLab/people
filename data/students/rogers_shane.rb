@@ -3,7 +3,7 @@
   :first_name => "Shane",
   :image_url => "/images/students/gschool0/shane.jpg",
   :email_address => "rogerssh@tcd.ie",
-  :looking_for_description => "An environment where I can be mentored which has an exceptional group culture that drives the highest standards of product development. A company that puts equal emphasis on team communication and best development practices.",
+  :looking_for_description => "Shane has **accepted a position** with [Quick Left](http://www.quickleft.com/) in Boulder.\n\nAn environment where I can be mentored which has an exceptional group culture that drives the highest standards of product development. A company that puts equal emphasis on team communication and best development practices.",
   :best_at => ["Design intelligence", "Communication", "Teamwork"],
   :looking_for => ["TDD", "Pair Programming", "Mentorship"],
   :locations => ["San Francisco, CA", "New York, NY"],

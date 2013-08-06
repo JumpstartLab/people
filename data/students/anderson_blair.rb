@@ -3,7 +3,7 @@
   :first_name => "Blair",
   :image_url => "/images/students/gschool0/blair.jpg",
   :email_address => "blair81@gmail.com",
-  :looking_for_description => "I don't _just_ want to join a company, I want to join a team. I want to work with a group of people that care about educating each-other and working towards a common goal. I'm most passionate about disrupting politics, healthcare, payments, and education but would be happy to work outside of these industries. I'm eager to pair with amazing programmers, and to continually become better.",
+  :looking_for_description => "Blair has **accepted a position** with [Quick Left](http://www.quickleft.com/) in Boulder.\n\nI don't _just_ want to join a company, I want to join a team. I want to work with a group of people that care about educating each-other and working towards a common goal. I'm most passionate about disrupting politics, healthcare, payments, and education but would be happy to work outside of these industries. I'm eager to pair with amazing programmers, and to continually become better.",
   :best_at => ['Testing First', 'Writing Clean Code', 'Getting Things Done!'],
   :looking_for => ["Continuous Learning", 'Building Products', "Having Fun"],
   :locations => ["Boulder, CO", "Denver, CO", "San Francisco, CA", "Portland, OR", "New York, NY"],
