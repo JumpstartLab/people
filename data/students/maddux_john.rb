@@ -4,7 +4,7 @@
   :image_url => "/images/students/gschool0/john.jpg",
   :email_address => "jemaddux@gmail.com",
   :skype_username => "jemaddux",
-  :looking_for_description => "I want to be a full stack developer who gets to work with everything from Ruby, Rails and database all the way up to HTML, CSS, Javascript and Javascript libraries.",
+  :looking_for_description => "John has **accepted a position** with [BrightWhistle](http://www.brightwhistle.com/) in Atlanta.\n\nI want to be a full stack developer who gets to work with everything from Ruby, Rails and database all the way up to HTML, CSS, Javascript and Javascript libraries.",
   :best_at => ["Ruby", "Jquery", "Rails"],
   :looking_for => ["small to medium teams", "project ownership", "full-stack work"],
   :locations => ["Atlanta, GA", "Decatur, GA"],
