@@ -4,7 +4,7 @@
   :email_address => "ChrisKnight.mail@gmail.com",
   :image_url => "/images/students/gschool0/chris.jpg",
   :skype_username => "rehpotsirhcknight",
-  :looking_for_description => "I am motivated to work alongside seasoned developers in a junior deveoper or apprenticeship position, and expand on all of my skills in Ruby, Rails, Javascript, and HTML/CSS.",
+  :looking_for_description => "Christopher has **accepted a position** with [Maui New York](http://www.mauinewyork.com/).\n\nI am motivated to work alongside seasoned developers in a junior deveoper or apprenticeship position, and expand on all of my skills in Ruby, Rails, Javascript, and HTML/CSS.",
   :best_at => ["Participating in a team,", "having accountability for my work,", "being professional and approachable."],
   :looking_for => ["TDD, Github, Agile development workplace.", "A product / company vision that I can stand behind.", "A team willing to mentor me in open-source participation."],
   :locations => ["Denver, CO", "Portland, OR", "Boulder, CO", "Austin, TX", "San Francisco, CA",  "Los Angeles, CA"],
