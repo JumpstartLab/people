@@ -4,7 +4,7 @@
   :first_name => "Jorge",
   :image_url => "/images/students/gschool0/jorge.jpg",
   :email_address => "novohispano@gmail.com",
-  :looking_for_description => "Jorge has **accepted a position** with [NationBuilder](http://www.nationbuilder.com/) in LA.\n\nI want to build carefully crafted products.",
+  :looking_for_description => "Jorge has **accepted a position** with [JumpstartLab](http://www.jumpstartlab.com/) in Denver.\n\nI want to build carefully crafted products.",
   :best_at => ["Product Design", "Backend", "Frontend"],
   :looking_for => ["Product-Oriented company.", "Great teams.", "Outstanding quality."],
   :locations => ["San Francisco, CA", "New York, NY"],
