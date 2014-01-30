@@ -6,7 +6,7 @@
   :looking_for_description => "I am eager to grow as a programmer. I want to work for a company that values agile development, and invests in the growth of its new developers.",
   :best_at => ['Ruby', 'Rails', 'Communication', 'Collaboration'],
   :looking_for => ["Full stack development", "Agile practices", "Challenging problems", "A good learning environment"],
-  :locations => ["Denver"],
+  :locations => ["Denver, CO"],
   :code => {
     :github => 'https://github.com/LukeMartinez',
     :project_1 => {
