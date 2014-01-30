@@ -1,15 +1,17 @@
 require 'lib/student'
+require 'pry'
 
-Student.all.each do |student|
-  puts "Creating url for student: /students/#{student.slug}.html"
-  proxy "/students/#{student.slug}.html", "/student.html", :locals => { :student => student }
-end
-
-helpers do
-  def student_path(student)
-    "/students/#{student.slug}.html"
+module StudentHelpers
+  def primary_group
+    "gschool1"
   end
 
+  def student_path(student, group = primary_group)
+    "/students/#{group}/#{student.slug}.html"  
+  end
+end
+
+module FormattingHelpers
   def markdown(text)
     markdown_processor.render(text)
   end
@@ -17,31 +19,21 @@ helpers do
   def markdown_processor
     @markdown_processor ||= Redcarpet::Markdown.new(Redcarpet::Render::HTML, :autolink => true, :space_after_headers => true)
   end
+end 
+
+helpers do
+  include StudentHelpers
+  include FormattingHelpers
 end
+
+puts "Beginning student page setup"
+Student.all.each do |student|
+  url = student_path(student)
+  puts "Creating url for student: #{url}"
+  proxy url, "/student.html", :locals => { :student => student }
+end
+puts "Done with student page setup"
 
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
-
-# Build-specific configuration
-configure :build do
-  # For example, change the Compass output style for deployment
-  # activate :minify_css
-
-  # Minify Javascript on build
-  # activate :minify_javascript
-
-  # Enable cache buster
-  # activate :cache_buster
-
-  # Use relative URLs
-  # activate :relative_assets
-
-  # Compress PNGs after build
-  # First: gem install middleman-smusher
-  # require "middleman-smusher"
-  # activate :smusher
-
-  # Or use a different image path
-  # set :http_path, "/Content/images/"
-end
