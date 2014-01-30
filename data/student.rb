@@ -25,7 +25,7 @@ class Student
 
   def self.all
     @students ||= student_files.map do |student_file|
-      parse(filename)
+      parse(student_file)
     end.sort_by{|s| s.last_name}
   end
 
