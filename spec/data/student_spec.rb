@@ -2,7 +2,7 @@ require 'spec_helper'
 require 'data/student'
 
 describe Student do
-  let(:subject) { Student.all.find { |student| student.name == "Erin Drummond" } }
+  let(:subject) { Student.parse('./spec/fixtures/drummond_erin.rb') }
 
   its(:name) { should eq "Erin Drummond" }
   its(:email_address) { should eq "e.b.drummond@gmail.com" }

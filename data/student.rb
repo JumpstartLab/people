@@ -19,9 +19,13 @@ class Student
 
   end
 
+  def self.parse(filename)
+    Student.new student_data(filename)
+  end
+
   def self.all
     @students ||= student_files.map do |student_file|
-      Student.new student_data(student_file)
+      parse(filename)
     end.sort_by{|s| s.last_name}
   end
 
