@@ -20,7 +20,6 @@ class Student
   end
 
   def self.all
-    puts "Beginning Student.all"
     @students ||= student_files.map do |student_file|
       parse(student_file)
     end.sort_by{|s| s.last_name}
