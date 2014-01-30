@@ -30,5 +30,6 @@
   },
   :resume => "https://www.dropbox.com/s/370qu9zanr8dnlk/Ben%20Lewis%20-%20Technical%20Resume%20-%201-24-14.pdf",
   :references => ['Jeff Casimir', 'Mike Pack', 'Raphael Weiner'],
-  :other_notes => "I blog a lot. Check it out at http://fluxusfrequency.github.io"
+  :other_notes => "I blog a lot. Check it out at http://fluxusfrequency.github.io",
+  :group => 'gschool1'
 }

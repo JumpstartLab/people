@@ -30,5 +30,6 @@
   },
   :resume => "https://gist.github.com/Agsiegert/9b6d84e05ea85136d1c3",
   :references => ['Katrina Owen', 'Jeff Casimir', 'Jorge Téllez'],
-  :other_notes => "Find me on twitter at @Ynot_Na"
+  :other_notes => "Find me on twitter at @Ynot_Na",
+  :group => 'gschool1'
 }

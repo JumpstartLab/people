@@ -30,5 +30,6 @@
   },
   :resume => "https://www.dropbox.com/s/7ra50wfyyacf7uf/lukeresume.pdf",
   :references => [''],
-  :other_notes => ""
+  :other_notes => "",
+  :group => 'gschool1'
 }

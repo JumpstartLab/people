@@ -30,5 +30,6 @@
   },
   :resume => "https://drive.google.com/file/d/0B_v1QsOuaHXFTmh0QjJodmlyNUE/edit?usp=sharing",
   :references => ['Jeff Casimir', 'Katrina Owen'],
-  :other_notes => "Songwriter, musician and lover of all things music."
+  :other_notes => "Songwriter, musician and lover of all things music.",
+  :group => 'gschool1'
 }

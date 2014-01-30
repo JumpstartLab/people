@@ -30,5 +30,6 @@
   },
   :resume => "https://www.dropbox.com/s/hpjrs6mmge7i09c/rolen_le_resume.pdf",
   :references => ['Katrina Owen', 'Franklin Webber', 'Andy Glass'],
-  :other_notes => "I am Awesome. Find me on twitter at @rolentle"
+  :other_notes => "I am Awesome. Find me on twitter at @rolentle",
+  :group => 'gschool1'
 }
