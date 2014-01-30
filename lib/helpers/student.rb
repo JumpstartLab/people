@@ -4,8 +4,8 @@ module Helpers
       "gschool1"
     end
 
-    def student_path(student, group = primary_group)
-      "/students/#{group}/#{student.slug}.html"  
+    def student_path(student)
+      "/students/#{student.group}/#{student.slug}.html"  
     end
   end
 end
