@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'data/student'
+require 'lib/student'
 
 describe Student do
   let(:subject) { Student.parse('./spec/fixtures/drummond_erin.rb') }

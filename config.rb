@@ -1,4 +1,4 @@
-require 'data/student'
+require 'lib/student'
 
 Student.all.each do |student|
   puts "Creating url for student: /students/#{student.slug}.html"
