@@ -9,7 +9,7 @@ class Student
   end
 
   def self.student_files
-    Dir[File.join(root_path,"students","*.rb")]
+    Dir[File.join(root_path,"gschool1","*.rb")]
   end
 
   def self.student_data(student_file)
