@@ -34,6 +34,6 @@ me polish not only my development skills but also my design skills.",
     }
   },
   :resume => "https://docs.google.com/file/d/0BxUz-qhu6CseTVcySTlkTjZKZGs/edit?usp=sharing",
-  :references => ['Rachel Ober, Katrina Owen, Franklin Webber']
-
+  :references => ['Rachel Ober, Katrina Owen, Franklin Webber'],
+  :group => 'gschool0'
 }
