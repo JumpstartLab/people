@@ -1,6 +1,7 @@
 {
   :last_name => "Adam",
   :first_name => "Magan",
+  :image_url => "/images/students/gschool1/adam.jpg",
   :email_address => "Adam.dev89@gmail.com",
   :looking_for_description => "I seek to join a company that places emphasise on continous learning,  pair programming and TDD. A developer centric organisation that places a lot of responsibility and trust on their developers.",
   :best_at => ['Test Driven Development', 'Clean Code', 'Problem Solving'],
