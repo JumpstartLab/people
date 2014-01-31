@@ -33,5 +33,6 @@
     "{name: 'Jeff Casimir', twitter: '@j3', email: 'jeff@jumpstartlab.com'},
      {name: 'Solomon White', twitter: '@rubysolo', email: 'rubysolo@gmail.com'},
      {name: 'Elikem Adadevoh', twitter: '@elikem', email: 'elikem@gmail.com'}"
-  ]
+  ],
+  :group => 'gschool0'
 }

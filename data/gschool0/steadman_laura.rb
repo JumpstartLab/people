@@ -31,5 +31,6 @@
   },
   :resume => "http://refactoring-rainbows.herokuapp.com/resume",
   :references => ['Eoin Coffey -- Gnip, Katrina Owen -- JumpstartLab, Charlie and Lindsay Prezzano -- Hawthorne Threads'],
-  :other_notes => "My experience includes geospatial analysis and cartography, managing an online retailer’s warehouse, and working with natural and cultural resources. In my personal time I enjoy hiking and camping, birding, gardening, and cooking."
+  :other_notes => "My experience includes geospatial analysis and cartography, managing an online retailer’s warehouse, and working with natural and cultural resources. In my personal time I enjoy hiking and camping, birding, gardening, and cooking.",
+  :group => 'gschool0'
 }

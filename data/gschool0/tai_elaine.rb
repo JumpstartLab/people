@@ -31,5 +31,6 @@
   },
   :resume => "https://docs.google.com/document/d/17x6P9mKC9Sp8ZaoOw-o2MTsY4LkrrU0-OUote1xhARI/pub",
   :references => ['Austen Ito, Laura Steadman, Aimee Maher'],
-  :other_notes => ""
+  :other_notes => "",
+  :group => 'gschool0'
 }

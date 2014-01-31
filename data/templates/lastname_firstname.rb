@@ -31,4 +31,5 @@
   :resume => "http://blairbuilds.herokuapp.com/resume.html",
   :references => ['Katrina Owen', 'John Mentor', 'Billy\'s Cats'],
   :other_notes => "I am Awesome. Find me on twitter at @sinatrarb"
+  :group => 'gschool1'
 }

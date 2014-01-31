@@ -31,5 +31,6 @@
   },
   :resume => "https://github.com/SerKnight/Resume/blob/master/CKK_resume.pdf",
   :references => ['Lewis Parker, @parker_evi, http://www.earthvectors.com/', 'Jamie Van Leeuwen, http://www.linkedin.com/in/jvanlee'],
-  :other_notes => "I am ready to become part of a cohesive team, and learn to push the highest quality code"
+  :other_notes => "I am ready to become part of a cohesive team, and learn to push the highest quality code",
+  :group => 'gschool0'
 }

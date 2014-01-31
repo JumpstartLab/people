@@ -4,12 +4,8 @@ require_relative 'location'
 class Student
   include HasAttributes
 
-  def self.root_path
-    File.expand_path(File.dirname(__FILE__))
-  end
-
   def self.student_files
-    Dir[File.join(root_path,"students","*.rb")]
+    Dir[File.join("data","gschool1","*.rb")]
   end
 
   def self.student_data(student_file)
@@ -19,9 +15,13 @@ class Student
 
   end
 
+  def self.parse(filename)
+    Student.new student_data(filename)
+  end
+
   def self.all
     @students ||= student_files.map do |student_file|
-      Student.new student_data(student_file)
+      parse(student_file)
     end.sort_by{|s| s.last_name}
   end
 

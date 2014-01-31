@@ -31,5 +31,6 @@
   },
   :resume => "http://kylesuss.com/KyleSussResume.pdf",
   :references => ['Erin Drummond: e.b.drummond@gmail.com, Jess Eldredge: jessica.avison@gmail.com'],
-  :other_notes => "Twitter: @kylesuss"
+  :other_notes => "Twitter: @kylesuss",
+  :group => 'gschool0'
 }

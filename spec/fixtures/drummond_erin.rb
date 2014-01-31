@@ -31,6 +31,5 @@
   },
   :resume => "http://ebdrummond.com/resume.pdf",
   :references => ['Katrina Owen', 'Kareem Grant', 'Kyle Suss'],
-  :other_notes => "I did not have a background in development when I joined gSchool, but I have fallen in love with coding the past five months.  Now that I have the skills, it's addicting to code my dreams into reality.",
-  :group => 'gschool0'  
+  :other_notes => "I did not have a background in development when I joined gSchool, but I have fallen in love with coding the past five months.  Now that I have the skills, it's addicting to code my dreams into reality."
 }

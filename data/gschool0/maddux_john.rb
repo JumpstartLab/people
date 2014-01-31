@@ -31,5 +31,6 @@
   },
   :resume => "https://github.com/jemaddux/gblog/blob/master/John%20Maddux%20Resume.pdf",
   :references => [''],
-  :other_notes => "Twitter @johnemaddux"
+  :other_notes => "Twitter @johnemaddux",
+  :group => 'gschool0'
 }

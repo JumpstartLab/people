@@ -30,5 +30,6 @@
   },
   :resume => "http://shaneblog.herokuapp.com/shane_rogers_cv.pdf",
   :references => ['Franklin Webber', 'Katrina Owen','Cory Flanigan'],
-  :other_notes => "I am a non-US resident, with a one year work visa commencing mid-late September 2013 whom is eligible for a H-1B visa."
+  :other_notes => "I am a non-US resident, with a one year work visa commencing mid-late September 2013 whom is eligible for a H-1B visa.",
+  :group => 'gschool0'
 }

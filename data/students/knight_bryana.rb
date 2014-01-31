@@ -30,5 +30,6 @@
   },
   :resume => "https://docs.google.com/document/d/1Ti2EsnZE2jglTRJMQt97NAqE5oScAQrAtB7SOfYkE7Q/edit?usp=sharing",
   :references => ['Jeff Casimir', 'Geoffrey Schorkopf, Jorge Tellez'],
-  :other_notes => ""
+  :other_notes => "",
+  :group => 'gschool1'
 }

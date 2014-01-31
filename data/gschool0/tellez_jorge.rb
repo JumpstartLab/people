@@ -31,5 +31,6 @@
   },
   :resume => "http://novohispanoblog.herokuapp.com/resume.html",
   :references => ['Frank Webber, Katrina Owen, Mislav Marohnić'],
-  :other_notes => "I started two companies. I have Business Development, Communications and Product Development experience in the US and Latin America."
+  :other_notes => "I started two companies. I have Business Development, Communications and Product Development experience in the US and Latin America.",
+  :group => 'gschool0'
 }
