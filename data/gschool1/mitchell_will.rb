@@ -1,7 +1,7 @@
 {
   :last_name => "Mitchell",
   :first_name => "Will",
-  :image_url => "/images/students/gschool1/zula.jpg",
+  :image_url => "/images/students/gschool1/mitchell.jpg",
   :email_address => "wvmitchell@gmail.com",
   :looking_for_description => "I love that as a software developer, my education is never over. There is always a new technology to learn, or a new methodology to try out. I want to work with a team that values creative thinking, disruptive business solutions, and continuous mentorship.",
   :best_at => ['Ruby on Rails', 'Refactoring', 'Testing'],
