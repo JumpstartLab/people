@@ -54,7 +54,7 @@ class Student
   end
 
   def slug
-    [ first_name, last_name ].join("_").downcase
+    [ first_name, last_name ].join("_").downcase.gsub(" ", "_")
   end
 
   attribute :github_url, [ :code, :github ]
