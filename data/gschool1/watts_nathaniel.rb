@@ -51,7 +51,7 @@
       ]
     }
   },
-  :resume => "http://nathanielwatts.com/resume.html",
+  :resume => "http://nathanielwatts.com/resume.pdf",
   :references => ['Jeff Casimir', 'Katrina Owen'],
   :other_notes => "I am Awesome. Find me on twitter at @sinatrarb",
   :group => 'gschool1'
