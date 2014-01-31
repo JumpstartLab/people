@@ -1,7 +1,7 @@
 {
   :last_name => "Spath Luhring",
   :first_name => "Lauren",
-  :image_url => "/images/students/gschool1/lauren.jpg",
+  :image_url => "/images/students/gschool1/spath.jpg",
   :email_address => "lespath@gmail.com",
   :looking_for_description => "I'm a full stack developer eager to take what I've learned at gSchool and sink my teeth into an impactful project with other smart, driven people.  I'd love to be a part of an agile team that supports continuous learning, drives development with tests, and laughs a lot while doing so.",
   :best_at => ['writing clean code', 'problem solving', 'project management', 'timely animated gifs'],
@@ -23,7 +23,7 @@
     },
     :project_3 => {
       :title => "exercism.io",
-      :description => "The goal of exercism is to think deeply about simple, expressive, readable code.  This repository contains samples of my completed and in-progress exercism.io exercises in Ruby and Javascript."
+      :description => "The goal of exercism is to think deeply about simple, expressive, readable code.  This repository contains samples of my completed and in-progress exercism.io exercises in Ruby and Javascript.",
       :url => 'https://github.com/edatrix/exercism',
       :what_to_look_for => []
     }

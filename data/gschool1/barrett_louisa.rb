@@ -1,7 +1,7 @@
 {
   :last_name => "Barrett",
   :first_name => "Louisa",
-  :image_url => "/images/students/gschool1/louisa.jpg",
+  :image_url => "/images/students/gschool1/barrett.jpg",
   :email_address => "louisabarrett@gmail.com",
   :looking_for_description => "I'm on the hunt for a great team building great products. I thrive in tight-knit, collaborative environments and love working with dedicated, driven teammates. I'm passionate about education, conservation, healthcare, design and great user experiences. I continually seek out ways to learn new skills and push myself outside of my comfort zone, and I take great pride in doing the best work possible.",
   :best_at => ['Pair programming', 'TDD', 'Attention to detail and love of well crafted code'],

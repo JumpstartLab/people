@@ -1,7 +1,7 @@
 {
   :last_name => "Knight",
   :first_name => "Bryana",
-  :image_url => "/images/students/gschool1/bryana.jpg",
+  :image_url => "/images/students/gschool1/knight.jpg",
   :email_address => "bryana.r.knight@gmail.com",
   :looking_for_description => "I strive to be a collaborative teammate and effective communicator as much as a strong developer, so i'm seeking a company that values mentorship and pair programming as well as independent work. I want to be challenged to tackle difficult problems by creating quality software.",
   :best_at => ['Ruby', 'Rails', 'Collaboration', 'BDD'],
