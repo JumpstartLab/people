@@ -1,7 +1,7 @@
 {
   :last_name => "Spath Luhring",
   :first_name => "Lauren",
-  :image_url => "/images/students/gschool1/lauren.jpg",
+  :image_url => "/images/students/gschool1/spath.jpg",
   :email_address => "lespath@gmail.com",
   :looking_for_description => "I'm a full stack developer eager to take what I've learned at gSchool and use it to sink my teeth into an impactful project with other smart, driven people.  I'd love to be a part of an agile team that supports continuous learning, drives behavior and development with tests, and laughs a lot while doing so.",
   :best_at => ['writing clean code', 'problem solving', 'project management', 'timely animated gifs'],
@@ -27,6 +27,15 @@
       :url => 'https://github.com/edatrix/idea-box',
       :what_to_look_for => ['integration with SMS service Twilio']
     },
+<<<<<<< HEAD:data/students/spath_luhring_lauren.rb
+=======
+    :project_3 => {
+      :title => "exercism.io",
+      :description => "The goal of exercism is to think deeply about simple, expressive, readable code.  This repository contains samples of my completed and in-progress exercism.io exercises in Ruby and Javascript.",
+      :url => 'https://github.com/edatrix/exercism',
+      :what_to_look_for => []
+    }
+>>>>>>> author/master:data/gschool1/spath_luhring_lauren.rb
   },
   :resume => "http://cl.ly/3G3z0a0f0m0V",
   :references => ['Jeff Casimir', 'Rachel Lubin'],

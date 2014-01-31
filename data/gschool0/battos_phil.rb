@@ -31,5 +31,6 @@
   },
   :resume => "http://philbattos.herokuapp.com/phil-battos-resume.pdf",
   :references => ['Robert Jackson', 'Timothy Clayton', 'Arjun Sharma'],
-  :other_notes => ""
+  :other_notes => "",
+  :group => 'gschool0'
 }

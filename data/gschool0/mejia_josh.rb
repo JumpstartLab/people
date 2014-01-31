@@ -30,5 +30,6 @@
     },
   },
   :resume => "http://joshmejia.com/mejia_josh_resume.pdf",
-  :references => ['Mike Pack - Factory Code Labs', 'Matthew Deiters - Pitchbox, Coderwall', 'Ross Nelson - Image Management']
+  :references => ['Mike Pack - Factory Code Labs', 'Matthew Deiters - Pitchbox, Coderwall', 'Ross Nelson - Image Management'],
+  :group => 'gschool0'
 }

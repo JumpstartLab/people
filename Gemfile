@@ -12,4 +12,5 @@ group :development do
   gem "rspec"
   gem "guard-rspec"
   gem "shotgun"
+  gem "pry", :require => 'pry'
 end

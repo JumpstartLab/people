@@ -30,4 +30,5 @@
 },
     :resume => "https://github.com/Diasporism/resume/blob/master/resume.pdf?raw=true",
     :references => ['Jeff Casimir', 'Horace Williams', 'Franklin Webber', 'Katrina Owen'],
+    :group => 'gschool0'
 }

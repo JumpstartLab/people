@@ -24,5 +24,6 @@
   },
   :resume => "http://www.linkedin.com/profile/view?id=74756408",
   :references => ['Bryan Powell- Founder of Metabahn'],
-  :other_notes => "My hobbies include making music and writing."
+  :other_notes => "My hobbies include making music and writing.",
+  :group => 'gschool0'
 }

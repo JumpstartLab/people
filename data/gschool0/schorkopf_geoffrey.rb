@@ -30,5 +30,6 @@
   },
   :resume => "http://www.linkedin.com/profile/view?id=215861025",
   :references => ['Mike Chlipala - Senior Web Developer @ Living Social - mchlipala@gmail.com'],
-  :other_notes => "I play ukelele, build crossword puzzles, and love improv comedy/"
+  :other_notes => "I play ukelele, build crossword puzzles, and love improv comedy/",
+  :group => 'gschool0'
 }
