@@ -3,17 +3,17 @@
   :first_name => "Bryana",
   :image_url => "/images/students/gschool1/bryana.jpg",
   :email_address => "bryana.r.knight@gmail.com",
-  :looking_for_description => "",
+  :looking_for_description => "I strive to be a collaborative teammate and effective communicator as much as a strong developer, so i'm seeking a company that values mentorship and pair programming as well as independent work. I want to be challenged to tackle difficult problems by creating quality software.",
   :best_at => ['Ruby', 'Rails', 'Collaboration', 'BDD'],
-  :looking_for => ["Continuous Learning", "Building products I believe in", "Collaborative work environment"],
+  :looking_for => ["Continuous Learning", "Full Stack Development", "Collaborative work environment"],
   :locations => ["Seattle, WA", "Boston, MA", "Washington, DC"],
   :code => {
     :github => 'https://github.com/BryanaKnight',
     :project_1 => {
       :title => "MileHigh",
-      :description => "A version of Yelp for legal Marijuana stores in Colorado. We authenticated through Facebook, wrote a gem to expose our own API and another to consume the Leafly API.",
+      :description => "A version of Yelp for legal Marijuana stores in Colorado. We authenticated using Facebook, wrote a gem to expose our own API and another to consume the Leafly API.",
       :url => 'https://github.com/BryanaKnight/milehigh',
-      :what_to_look_for => ['webscraping using Nokogiri', 'database indexing', 'JavaScript and jQuery implementation']
+      :what_to_look_for => ['webscraping using Nokogiri', 'database indexing', 'JavaScript and jQuery implementation', 'RSpec test coverage']
     },
     :project_2 => {
       :title => "Fourth Meal",
@@ -22,13 +22,13 @@
       :what_to_look_for => ['background workers', "'Russian Doll' fragment caching", 'scalable architecture']
     },
     :project_3 => {
-      :title => "HaxHub - Integrating the APIs of Github, Pivotal Tracker, and Travis CI to serve as an all-in-one software project feed.",
-      :description => "This was a fun experience trying to create a single-page application that aggregated a external content in real-time. We integrated WebHooks as well as some basic jQuery/CoffeeScript polling for new data.",
-      :url => 'https://github.com/gitbhub_username/haxhub',
-      :what_to_look_for => ['Consuming data through webhook', 'Good extraction of data extraction through APIs', 'Clean Implementation of jQuery for polling']
+      :title => "Exercism",
+      :description => "I use the open source platform to solve problems in Ruby and JavaScript. Working through the code challenges allows me to practice my pure Ruby skills and experiment with JavaScript.",
+      :url => 'https://github.com/BryanaKnight/exercism',
+      :what_to_look_for => ['Ruby', 'JavaScript', 'problem solving']
     }
   },
-  :resume => "http://blairbuilds.herokuapp.com/resume.html",
+  :resume => "https://docs.google.com/document/d/1Ti2EsnZE2jglTRJMQt97NAqE5oScAQrAtB7SOfYkE7Q/edit?usp=sharing",
   :references => ['Jeff Casimir', 'Geoffrey Schorkopf, Jorge Tellez'],
-  :other_notes => "I am Awesome. Find me on twitter at @sinatrarb"
+  :other_notes => ""
 }
