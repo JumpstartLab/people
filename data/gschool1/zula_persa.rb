@@ -1,7 +1,7 @@
 {
   :last_name => "Zula",
   :first_name => "Persa",
-  :image_url => "/images/students/gschool1/persa.jpg",
+  :image_url => "/images/students/gschool1/zula.jpg",
   :email_address => "persa@persazula.com",
   :looking_for_description => "I love to build things that have an impact. I'm not interested in the next 'Uber for ___' or 'Airbnb for ___'. I want to solve real problems for people everywhere.",
   :best_at => ['Behavior-Driven Development', 'Helping others succeed', 'Getting Things Done!'],

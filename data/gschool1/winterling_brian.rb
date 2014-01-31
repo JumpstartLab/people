@@ -1,7 +1,7 @@
 {
   :last_name => "Winterling",
   :first_name => "Brian",
-  :image_url => "http://www.gravatar.com/avatar/d6cf7193827cd231b16b02884a459046.png",
+  :image_url => "/images/students/gschool1/winterling.jpg",
   :email_address => "bwinterling@yahoo.com",
   :looking_for_description => "I love diving in and learning new things, and sharing what I've learned with others.  A workplace that encourages that drive is important.  With a broad business background, I'm able to bring a fresh perspective to company problems. Most importantly, I want to really enjoy the people I work with and be part of the community.",
   :best_at => ['Problem Solving', 'Ruby/Rails', 'Team Work'],

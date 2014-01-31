@@ -1,7 +1,7 @@
 {
   :last_name => "Gayhart",
   :first_name => "Romeeka",
-  :image_url => "/images/students/gschool1/romeeka.jpg",
+  :image_url => "/images/students/gschool1/gayhart.jpg",
   :email_address => "rrgayhart@gmail.com",
   :website => "http://meekaetal.com/",
   :looking_for_description => "Full-stack Ruby on Rails Developer seeking a company that invests in employee development and is commited to sustainable growth. Hoping for the chance to learn and work with a team of problem solvers.",
