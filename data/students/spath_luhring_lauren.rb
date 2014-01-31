@@ -3,9 +3,9 @@
   :first_name => "Lauren",
   :image_url => "/images/students/gschool1/lauren.jpg",
   :email_address => "lespath@gmail.com",
-  :looking_for_description => "I am ready to sink my teeth into a fun, impactful project with other smart, driven people.  I'd love to be a part of an agile team that supports continuous learning, drives development with tests, and laughs a lot while doing so.",
+  :looking_for_description => "I'm a full stack developer eager to take what I've learned at gSchool and sink my teeth into an impactful project with other smart, driven people.  I'd love to be a part of an agile team that supports continuous learning, drives development with tests, and laughs a lot while doing so.",
   :best_at => ['writing clean code', 'problem solving', 'project management', 'timely animated gifs'],
-  :looking_for => ['continuous learning', 'agile environment', 'new challenges every day', 'having fun'],
+  :looking_for => ['support as I continue to learn', 'an agile environment', 'new challenges every day', 'a collaborative team environment'],
   :locations => ["Boulder, CO", "Denver, CO"],
   :code => {
     :github => 'https://github.com/edatrix',
@@ -22,10 +22,10 @@
       :what_to_look_for => ['integration with SMS service Twilio']
     },
     :project_3 => {
-      :title => "HaxHub - Integrating the APIs of Github, Pivotal Tracker, and Travis CI to serve as an all-in-one software project feed.",
-      :description => "This was a fun experience trying to create a single-page application that aggregated a external content in real-time. We integrated WebHooks as well as some basic jQuery/CoffeeScript polling for new data.",
-      :url => 'https://github.com/gitbhub_username/haxhub',
-      :what_to_look_for => ['Consuming data through webhook', 'Good extraction of data extraction through APIs', 'Clean Implementation of jQuery for polling']
+      :title => "exercism.io",
+      :description => "The goal of exercism is to think deeply about simple, expressive, readable code.  This repository contains samples of my completed and in-progress exercism.io exercises in Ruby and Javascript."
+      :url => 'https://github.com/edatrix/exercism',
+      :what_to_look_for => []
     }
   },
   :resume => "http://cl.ly/3G3z0a0f0m0V",
