@@ -1,7 +1,7 @@
 {
   :last_name => "Taneja",
   :first_name => "Nikhil",
-  :image_url => "/images/students/gschool1/nikhil.jpg",
+  :image_url => "/images/students/gschool1/taneja.jpg",
   :email_address => "nikhil.a.taneja@gmail.com",
   :looking_for_description => "I am a full-stack developer looking to join a startup excited about the products they are building. I thrive in fast-paced environments where continuous learning is encouraged.",
   :best_at => ['Problem solving', 'Ruby', 'Rails', 'TDD', 'Getting things done'],
