@@ -345,7 +345,7 @@ div.section.students { width: 860px;}
   display: inline;
   float: left;
   width: 57px;
-  margin: 0 0 10px 20px;
+  margin: 0 0 6px 6px;
   border-radius: 11px;
   padding: 2px;
   background: #fff;
@@ -371,7 +371,7 @@ div.section.students { width: 860px;}
   float: left;
   padding: 22px;
   margin: 20px 0 0;
-  padding-top: 30px;
+  padding: 0px;
   font-size: 16px;
   line-height: 150%;
   border-top: 1px solid #eee;
@@ -451,8 +451,6 @@ div.section.students { width: 860px;}
 .aside .events-list p {font-size: 14px;}
 .aside .students-thumbs {margin: 0 0 20px -5px;}
 .aside .students-thumbs li {
-  width: 36px;
-  margin: 0 0 10px 5px;
   border-radius: 5px;
   }
 .aside .students-thumbs li img {border-radius: 4px;}
@@ -736,8 +734,8 @@ footer {
 /* ALL
 ============================================================================ */
 
-.portfolio_link {
-  
+.portfolio-link {
+  display: inline;
 }
 
 
