@@ -2,7 +2,7 @@
   :last_name => "Adam",
   :first_name => "Magan",
   :email_address => "Adam.dev89@gmail.com",
-  :looking_for_description => "I seek to join a company that places emphasise on continour learning,  pair programming and TDD. A developer centric organisation that places a lot of responsibilityi and trust on their developers.",
+  :looking_for_description => "I seek to join a company that places emphasise on continous learning,  pair programming and TDD. A developer centric organisation that places a lot of responsibility and trust on their developers.",
   :best_at => ['Test Driven Development', 'Clean Code', 'Problem Solving'],
   :looking_for => ["Continuous Learning", "Consultancy", "Great Culture"],
   :locations => ["West Midlands, UK", "London, UK"],
@@ -12,7 +12,7 @@
       :title => "Noshify - Multi-Tenant Restaurant Ordering Platform.",
       :description => "We inherited a legacy code base and extended it to support multi-tenancy. It was a software as a Service for restaurant owners I developed with two gSchool classmates.", 
       :url => 'https://github.com/fluxusfrequency/fourth_meal',
-      :what_to_look_for => ['High Test Coverage', 'Regression Tests', 'Multiple Permission Levels', 'Performance Enhancement via Database Indexing, Caching, and Background Workers']
+      :what_to_look_for => ['High Test Coverage', 'Regression Tests', 'Multiple Permission Levels']
     },
     :project_2 => {
       :title => "Duolingo - Api Wrapper Gem",
