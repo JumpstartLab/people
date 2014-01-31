@@ -2,6 +2,12 @@ require 'lib/student'
 require 'lib/helpers/student'
 require 'lib/helpers/formatting'
 
+module PortfolioConfig
+  def self.current_group_name
+    "gschool1"
+  end
+end
+
 helpers do
   include Helpers::Student
   include Helpers::Formatting

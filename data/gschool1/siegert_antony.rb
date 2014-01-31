@@ -1,7 +1,7 @@
 {
   :last_name => "Siegert",
   :first_name => "Antony",
-  :image_url => "/images/students/gschool1/antony.jpg",
+  :image_url => "/images/students/gschool1/siegert.jpg",
   :email_address => "Agsiegert@hotmail.com",
   :looking_for_description => "After six months drinking from the fire-hose of gSchool I have only just begun my programming career. I am seeking a collaborative, mentoring environment where my years of customer service and business management experience can add value to the company on top of my programming. I am looking forward to joining a team and have the ability to continue learning new languages and refining my craft. Atmosphere, camaraderie and the opportunity to work on varied projects is at the top of my list. I am confident that I will be a good fit and look forward to talking to you further.",
   :best_at => ['Testing First', 'Writing Clean Code', 'Getting Things Done!'],

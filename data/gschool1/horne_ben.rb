@@ -1,7 +1,7 @@
 {
   :last_name => "Horne",
   :first_name => "Ben",
-  :image_url => "/images/students/gschool1/ben_h.jpg",
+  :image_url => "/images/students/gschool1/horne.jpg",
   :email_address => "benhorne44@gmail.com",
   :looking_for_description => "I am a developer looking for a company that will enhance my technical skills and push me to collaborate and explore new perspectives. I excel at working closely with others and finding compromise, allowing me to thrive in small team environments with constantly changing demands. As a dedicated musician, I emphasize creativity and passion in my programming and have a commitment to quality work and continuous learning.",
   :best_at => ['Collaboration', 'Ruby', 'Rails', 'TDD'],

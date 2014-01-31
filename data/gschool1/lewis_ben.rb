@@ -1,7 +1,7 @@
 {
   :last_name => "Lewis",
   :first_name => "Ben",
-  :image_url => "/images/students/gschool1/ben_lewis.jpg",
+  :image_url => "/images/students/gschool1/lewis.jpg",
   :email_address => "bennlewis@gmail.com",
   :looking_for_description => "I’m seeking a position where value is placed on the craft of programming via pairing, TDD, and a dedication continuous learning. I want to collaborate creatively with colleagues to build elegant solutions to difficult problems.",
   :best_at => ['Test Driven Development', 'Software Architecture Design', 'Solving Complex Problems', 'Collaboration'],

@@ -22,12 +22,12 @@ class Student
     loaded = student_files(group_name).map do |file|
       parse(file)
     end.sort_by{|s| s.last_name}
-    @students = [] if @students.nil?
-    @students += loaded
+    @students = {} if @students.nil?
+    @students[group_name] = loaded
   end
 
-  def self.all
-    @students
+  def self.current_group
+    @students[ENV['PORTFOLIO_CURRENT_GROUP_NAME']]
   end
 
   attributes :first_name, :last_name, :email_address, :skype_username,

@@ -1,7 +1,7 @@
 {
   :last_name => "Long",
   :first_name => "Tyler",
-  :image_url => "/images/students/gschool1/tyler.jpg",
+  :image_url => "/images/students/gschool1/long.jpg",
   :email_address => "tyler.stephen.long@gmail.com",
   :looking_for_description => "I am not only looking for a company that will make me a better programmer, but also a solid team that values TDD, agile development, and a strong commitment to learning. ",
   :best_at => ['Testing', 'Ruby', 'Rails', 'Problem Solving', 'Collaboration'],

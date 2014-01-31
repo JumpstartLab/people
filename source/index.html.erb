@@ -4,12 +4,12 @@
 
 <% content_for :article do %>
   <ul class="students-thumbs">
-    <%= partial "thumbnail/student", collection: Student.all %>
+    <%= partial "thumbnail/student", collection: Student.current_group %>
   </ul>
 
   <div style="clear: both;"></div>
 
   <ul class="students">
-    <%= partial "summary/student", collection: Student.all %>
+    <%= partial "summary/student", collection: Student.current_group %>
   </ul>
 <% end %>

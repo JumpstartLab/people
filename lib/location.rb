@@ -1,7 +1,7 @@
 class Location
 
   def self.all
-    @locations ||= Student.all.map { |student| student.locations }.flatten.uniq { |location| location.name }.sort_by{|l| l.name}
+    @locations ||= Student.current_group.map { |student| student.locations }.flatten.uniq { |location| location.name }.sort_by{|l| l.name}
   end
 
   def initialize(name)
