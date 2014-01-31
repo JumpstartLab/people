@@ -28,5 +28,6 @@
       :what_to_look_for => ['My refactoring approach']
     }
   },
-  :references => ['Tim Connor', 'Katrina Owen', 'Franklin Webber' ]
+  :references => ['Tim Connor', 'Katrina Owen', 'Franklin Webber' ],
+  :group => 'gschool0'
 }

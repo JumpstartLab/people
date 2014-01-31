@@ -40,5 +40,6 @@
     }
   },
   :resume => "https://docs.google.com/document/d/1036a0tAbJ3Y8xaBisCx4hR5-S4hBMIpsLqIYxpRVAEQ/edit?usp=sharing",
-  :references => ['Mark Tabler, Brian Chojnacki, Matthew Shafroth']
+  :references => ['Mark Tabler, Brian Chojnacki, Matthew Shafroth'],
+  :group => 'gschool0'
 }

@@ -31,5 +31,6 @@
   },
   :resume => "http://bradsheehan.herokuapp.com/resume.html",
   :references => ['Brian Rose, Franklin Webber, Katrina Owen'],
-  :other_notes => "Anything else someone needs to know?"
+  :other_notes => "Anything else someone needs to know?",
+  :group => 'gschool0'
 }
