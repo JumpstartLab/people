@@ -1,35 +1,22 @@
 {
-  :last_name => "First Name",
-  :first_name => "Last Name",
-  :image_url => "/images/students/gschool1/first_name.jpg",
-  :email_address => "me@example.com",
-  :looking_for_description => "I don't _just_ want to join a company, I want to join a team. I want to work with a group of people that care about educating each-other and working towards a common goal. I'm most passionate about disrupting politics, healthcare, payments, and education but would be happy to work outside of these industries. I'm eager to pair with amazing programmers, and to continually become better.",
-  :best_at => ['Testing First', 'Writing Clean Code', 'Getting Things Done!'],
-  :looking_for => ["Continuous Learning", 'Building Products', "Having Fun"],
-  :locations => ["Boulder, CO", "Denver, CO", "San Francisco, CA", "Portland, OR", "New York, NY"],
+  :last_name => "Pequeen II",
+  :first_name => "Darryl",
+  :image_url => "/images/students/gschool1/darryl.jpg",
+  :email_address => "pequickster@msn.com",
+  :looking_for_description => "I don't _just_ want to join a company, I want to join a team. I want to work with a group of people that care about educating each-other and working towards a common goal. I'm eager to continually push myself to become a better programmer.",
+  :best_at => ["Utilizing TDD - to drive cleanly written code", "Finding bugs and documenting the fix", "Brainstorming new ideas with my team"],
+  :looking_for => ["Quality Assurance", "Continuous Learning", "Building Products"],
+  :locations => ["Boulder, CO" "Longmont,CO" "Ft. Collins" "Denver, CO"],
   :code => {
-    :github => 'https://github.com/gitbhub_username',
+    :github => "https://github.com/dpequeen",
     :project_1 => {
-      :title => "ShareMore - A Twitter client without a character limit.",
-      :description => "ShareMore was fun because I had decided to tackle a simple problem but make sure it was fully completed. In 7-days I created a main application and API structure, a small client library to interact with the application, and experimented with an Ember application as a front-end.",
-      :url => 'https://github.com/gitbhub_username/share-more',
-      :what_to_look_for => ['HyperMedia API endpoint at /api/v1', 'The Simplicity of The Gem', 'Clean Design and Thorough Implementation']
+      :title => "Mile High - A social marijuana retail store finder.",
+      :description => "Created a service that helps people locate retail marijuana stores in their neighborhood. Integrated API’s to get information about store locations, strain details and reviews - including Leafly, Facebook and Yelp.",
+      :url => 'https://github.com/dpequeen/milehigh',
+      :what_to_look_for => ['The Simplicity of the "rolling_paper" Gem', 'Clean Design and Thorough Implementation']
     },
-    :project_2 => {
-      :title => "RunTalk - a mobile chat system",
-      :description => "RunTalk is a mobile chat system. It uses services to break up the architecture into more manageable pieces.",
-      :url => 'http://github.com/gitbhub_username/runtalk',
-      :what_to_look_for => ['You get services!', 'and you get services!', 'and you get services!']
-    },
-    :project_3 => {
-      :title => "HaxHub - Integrating the APIs of Github, Pivotal Tracker, and Travis CI to serve as an all-in-one software project feed.",
-      :description => "This was a fun experience trying to create a single-page application that aggregated a external content in real-time. We integrated WebHooks as well as some basic jQuery/CoffeeScript polling for new data.",
-      :url => 'https://github.com/gitbhub_username/haxhub',
-      :what_to_look_for => ['Consuming data through webhook', 'Good extraction of data extraction through APIs', 'Clean Implementation of jQuery for polling']
-    }
-  },
-  :resume => "http://blairbuilds.herokuapp.com/resume.html",
-  :references => ['Katrina Owen', 'John Mentor', 'Billy\'s Cats'],
-  :other_notes => "I am Awesome. Find me on twitter at @sinatrarb"
+  :resume => "https://drive.google.com/file/d/0ByIJRLvIcjBgSGpQdk94Y1lYWG8/edit?usp=sharing",
+  :references => ['Jeff Casimir', 'Raphael Weiner'],
+  :other_notes => "I am eager to get myself out there and surround myself with awesome people building awesome things! Find me on twitter at @dpequeen"
   :group => 'gschool1'
 }
