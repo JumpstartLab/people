@@ -1,7 +1,7 @@
 {
   :last_name => 'Moses',
   :first_name => 'Jonah',
-  :image_url => '/images/students/gschool1/jonah.jpg',
+  :image_url => '/images/students/gschool1/moses.jpg',
   :email_address => 'jonahkmoses@gmail.com',
   :looking_for_description => "I am a software developer with considerable business management and sales experience. My software development skills continue to evolve and my learning will never be finished, and I love that! My goal is to be with a company that views coding as a craft and takes great pride in the quality of the code produced. The community that I look forward to being involved with is as enthusiastic about teaching and community involvement as I am with learning and sharing what I have learned. Being with a team that pair programs, believes in mentoring, enjoys having fun and works hard together while also encouraging growth is my ideal scenario.",
   :best_at => ['Ruby', 'Rails', 'Collaboration', 'Test Driven Development', 'Communication', 'Complex Problem Solving'],
