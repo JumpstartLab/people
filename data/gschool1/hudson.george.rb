@@ -28,7 +28,7 @@
       :what_to_look_for => ['First experience with integration testing', 'Extracted partials to clean up views', 'Usage of data scrapers']
     }
   },
-  :resume => "",
+  :resume => "https://drive.google.com/file/d/0BxVdB-h4vBiUZnVTTDJidGM3Mlk/edit?usp=sharing",
   :references => [''],
   :other_notes => "",
   :group => 'gschool1'
