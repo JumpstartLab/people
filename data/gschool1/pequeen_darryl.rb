@@ -14,10 +14,10 @@
       :description => "Collaborating with three other students, we created a site where people can locate and review retail marijuana stores in their neighborhood. Integrated API’s to get information about store locations, strain details and reviews - including Leafly, and Facebook.", 
       :url => 'https://github.com/dpequeen/milehigh',
       :what_to_look_for => ['Use of Two Custom Gems - Rolling Paper and Nugz', 'Custom GeoJSON Implementation', 'Integration with Facebook and Leafly']
-    },
-    :resume => "https://drive.google.com/file/d/0ByIJRLvIcjBgSGpQdk94Y1lYWG8/edit?usp=sharing",
-    :references => ['Jeff Casimir -- Jumpstart Lab', 'Raphael Weiner -- Pivitol Labs'],
-    :other_notes => "I am eager to get myself out there and surround myself with awesome people building awesome things! Find me on twitter at @dpequeen",
-    :group => 'gschool1'
+    }
+  :resume => "https://drive.google.com/file/d/0ByIJRLvIcjBgSGpQdk94Y1lYWG8/edit?usp=sharing",
+  :references => ['Jeff Casimir -- Jumpstart Lab', 'Raphael Weiner -- Pivitol Labs'],
+  :other_notes => "I am eager to get myself out there and surround myself with awesome people building awesome things! Find me on twitter at @dpequeen",
+  :group => 'gschool1'
   }
 }
