@@ -25,7 +25,7 @@
       :title => "Idea Box - An application that lets you make short posts about whats on your mind.",
       :description => "My first web application. I am in the process of refactoring and redesigning Idea Box using the skills and techniques I have learned in the past three months.",
       :url => 'https://github.com/lukemartinez/gschool_ideabox',
-      :what_to_look_for => ['Styleing tags removed from views and put in a stylesheet', 'Extracted partials to clean up views', 'Simplified or removed business logic from views', 'Refactoring complex or confusing methods']
+      :what_to_look_for => ['Styling tags removed from views and put in a stylesheet', 'Extracted partials to clean up views', 'Simplified or removed business logic from views', 'Refactored complex or confusing methods']
     }
   },
   :resume => "https://www.dropbox.com/s/7ra50wfyyacf7uf/lukeresume.pdf",
