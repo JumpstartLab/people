@@ -2,7 +2,7 @@
   :last_name => "Martinez",
   :first_name => "Luke",
   :image_url => "/images/students/gschool1/martinez.jpg",
-  :email_address => "tyler.stephen.long@gmail.com",
+  :email_address => "lukemartinez@gmail.com",
   :looking_for_description => "I am eager to grow as a programmer. I want to work for a company that values agile development, and invests in the growth of its new developers.",
   :best_at => ['Ruby', 'Rails', 'Communication', 'Collaboration'],
   :looking_for => ["Full stack development", "Agile practices", "Challenging problems", "A good learning environment"],
