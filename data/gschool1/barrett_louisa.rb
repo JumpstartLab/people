@@ -30,5 +30,6 @@
   },
   :resume => "http://f.cl.ly/items/2D2S2u0L0Z2B3x0o3X1Y/LouisaBarrett_resume.pdf",
   :references => ['Katrina Owen', 'Jay Zeschin', 'Michelle Wolf'],
-  :other_notes => "I'm a sucker for typography and all things designerdy. Tweeting @weesie_b"
+  :other_notes => "I'm a sucker for typography and all things designerdy. Tweeting @weesie_b",
+  :group => "gschool1"
 }

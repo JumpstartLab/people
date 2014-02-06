@@ -30,5 +30,6 @@
   },
   :resume => "https://www.dropbox.com/s/yg2hw8o54znjv7a/Simon_Taranto_Resume.pdf",
   :references => ['Jeff Casimir', 'Katrina Owen'],
-  :other_notes => "Find me on twitter at @simontaranto and check out my technical blog at www.simontaranto.com"
+  :other_notes => "Find me on twitter at @simontaranto and check out my technical blog at www.simontaranto.com",
+  :group => "gschool1"
 }

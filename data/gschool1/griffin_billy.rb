@@ -30,5 +30,6 @@
   },
   :resume => "http://www.linkedin.com/in/billygriffin22",
   :references => ['Jeff Casimir', 'Jorge Tellez', 'Alex Welch', 'Lew Parker', 'Tony Hatala'],
-  :other_notes => "I am a finance geek, and do portfolio management and consulting for a few friends and family. Find me on twitter at @billygriffin22"
+  :other_notes => "I am a finance geek, and do portfolio management and consulting for a few friends and family. Find me on twitter at @billygriffin22",
+  :group => "gschool1"
 }

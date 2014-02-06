@@ -6,5 +6,10 @@ describe "Student Data Files" do
     it "parses #{file}" do
       eval(File.read(file))
     end
+
+    it "#{file} has a :group" do
+      data = eval(File.read(file))
+      expect(data[:group]).to be
+    end
   end
 end

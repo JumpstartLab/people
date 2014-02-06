@@ -30,5 +30,6 @@
   },
   :resume => "http://cl.ly/1d0q0w1B1l2P/download/Resume.pdf",
   :references => ['Katrina Owen', 'Jeff Casimir'],
-  :other_notes => "I'm cooler than your average bear, find me on twitter at @wvmitchell"
+  :other_notes => "I'm cooler than your average bear, find me on twitter at @wvmitchell",
+  :group => "gschool1"
 }

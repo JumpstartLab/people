@@ -30,5 +30,6 @@
   },
   :resume => 'https://www.dropbox.com/s/mgii4xyfqpb18j3/Jonah%20Moses%20Dev%20Resume.pdf',
   :references => ['Katrina Owen', 'Franklin Webber', 'Jeff Casimer', 'Mathew Kirk', 'Blair Anderson'],
-  :other_notes => 'Find me on twitter at @jonahmoses, would love to pair or talk nerd!'
+  :other_notes => 'Find me on twitter at @jonahmoses, would love to pair or talk nerd!',
+  :group => "gschool1"
 }

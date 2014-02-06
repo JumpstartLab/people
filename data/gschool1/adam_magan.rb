@@ -23,7 +23,8 @@
     },
     :resume => "To Be Uploaded Soon",
     :references => ['Jeff Casimir', 'Sean Griffin'],
-    :other_notes => "My Blog: http://aspiring-programmer.herokuapp.com/",
-    :group => 'gschool1'
-  }
+    :other_notes => "My Blog: http://aspiring-programmer.herokuapp.com/"
+  },
+  :group => "gschool1"
+
 }

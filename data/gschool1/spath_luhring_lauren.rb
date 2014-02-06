@@ -30,5 +30,6 @@
   },
   :resume => "http://cl.ly/3G3z0a0f0m0V",
   :references => ['Jeff Casimir', 'Rachel Lubin'],
-  :other_notes => ""
+  :other_notes => "",
+  :group => "gschool1"
 }
