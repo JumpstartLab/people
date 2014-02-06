@@ -17,10 +17,10 @@
     },
     :project_2 => {
       :title => "FreshFinder (in progress)",
-      :description => "FreshFinder is a multi-services app that allows users to find reliable farmers market information.  Users can view markets on a map and search by name or location.  They also have the ability to rate and review markets and to edit information, ensuring content is up to date."
+      :description => "FreshFinder is a multi-services app that allows users to find reliable farmers market information.  Users can view markets on a map and search by name or location.  They also have the ability to rate and review markets and to edit information, ensuring content is up to date.",
       :url => 'https://github.com/FreshFinder',
       :what_to_look_for => ['multiple services working together', 'high percentage of test coverage', 'JavaScript front end' ]
-    }
+    },
     :project_3 => {
       :title => "IdeaBox",
       :description => "IdeaBox is a simple web application (my very first!) that allows users to record ideas.  Built using Ruby, this project was an introduction to Sinatra and an experiment in front end design.",
