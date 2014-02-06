@@ -28,7 +28,7 @@
       :what_to_look_for => ['Concise, Readable Code', 'Interesting Algorithms', 'A Dash of Metaprogramming']
     }
   },
-  :resume => "http://breethomas.github.io/resume/",
+  :resume => "https://www.dropbox.com/s/jqqjn9k42d5oiow/BreeThomas.pdf",
   :references => ['Jeff Casimir', 'Katrina Owen', 'Mike Pack'],
   :other_notes => "Sometimes I blog. Here - http://www.nooblife.com/, and also here - http://www.thebratblog.com/. And I only karaoke to Journey.",
   :group => "gSchool1"
