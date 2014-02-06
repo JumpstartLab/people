@@ -1,6 +1,6 @@
 {
-  :last_name => "Billy",
-  :first_name => "Griffin",
+  :last_name => "Griffin",
+  :first_name => "Billy",
   :image_url => "/images/students/gschool1/griffin.jpg",
   :email_address => "billy@miltraveler.com",
   :looking_for_description => "I am Co-founder of Base Directory, a mobile and web-based application to help service members and their families find information on military bases. I am interested in learning about new opportunities and participate in creating exciting products, so please don't hesitate to contact me.",
