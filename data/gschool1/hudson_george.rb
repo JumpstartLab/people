@@ -6,7 +6,7 @@
   :looking_for_description => "After just switching careers to learn a new skill set, I am adamant about placing myself in a position where I can continue to grow in the programming field, ideally in an education, medical, or literary setting.",
   :best_at => ['Ruby', 'Communication', 'Collaboration'],
   :looking_for => ["Full stack development", "Agile practices", "Apprenticeship/Mentoring programs", "Fun, cooperative environment focused on continued business and employee growth"],
-  :locations => ["Colorado", "*willing to relocate for right job"],
+  :locations => ["Denver, CO", "Boulder, CO", "Fort Collins, CO", "Flexible"],
   :code => {
     :github => 'https://github.com/Egogre',
     :project_1 => {
