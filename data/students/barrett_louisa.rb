@@ -11,7 +11,7 @@
     :github => 'https://github.com/LouisaBarrett',
     :project_1 => {
       :title => "Runline 2.0",
-      :description => "This was a project in refactoring. As part of a two person team, we challenged ourselves to implement object oriented programming and single responsibility principles to an extreme to dive deeply into OOP concepts. We focused on taking small steps, keeping our test suit running green, and creating a variety of service objects that adhere to SRP.",
+      :description => "This was a project in refactoring. As part of a two person team, we challenged ourselves to implement object oriented programming and single responsibility principles to an extreme and dive deeply into OOP concepts. We focused on taking small steps, keeping our test suite running green, and creating a variety of service objects that adhere to SRP.",
       :url => 'https://github.com/LouisaBarrett/runline-2',
       :what_to_look_for => ['Test coverage', 'Objects with clearly defined, single responsibilities', 'Object Oriented Programming principles']
     },
