@@ -10,10 +10,10 @@
   :code => {
     :github => 'https://github.com/LouisaBarrett',
     :project_1 => {
-      :title => "Social Smarts -  a social media management app",
-      :description => "As part of a five-person team, created a social media management app that allows a user to process incoming tweets based on various criteria. Primary role was designing and building the front-end from scratch, emphasizing a straightforward and simple experience for the user.",
-      :url => 'https://github.com/LouisaBarrett/SocialSmarts',
-      :what_to_look_for => ['Test coverage', 'Simple user experience', 'Use of Twitter and Klout APIs']
+      :title => "Runline 2.0",
+      :description => "This was a project in refactoring. As part of a two person team, we challenged ourselves to implement object oriented programming and single responsibility principles to an extreme to dive deeply into OOP concepts. We focused on taking small steps, keeping our test suit running green, and creating a variety of service objects that adhere to SRP.",
+      :url => 'https://github.com/LouisaBarrett/runline-2',
+      :what_to_look_for => ['Test coverage', 'Objects with clearly defined, single responsibilities', 'Object Oriented Programming principles']
     },
     :project_2 => {
       :title => "FundIt - a fund-raising app",
@@ -30,5 +30,5 @@
   },
   :resume => "http://f.cl.ly/items/2D2S2u0L0Z2B3x0o3X1Y/LouisaBarrett_resume.pdf",
   :references => ['Katrina Owen', 'Jay Zeschin', 'Michelle Wolf'],
-  :other_notes => "I'm a sucker for typography and all things designerdy. Tweeting @weesie_b"
+  :other_notes => "I'm a sucker for typography and all things designerdy."
 }
