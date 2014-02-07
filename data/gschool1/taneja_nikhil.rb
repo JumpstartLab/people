@@ -3,10 +3,10 @@
   :first_name => "Nikhil",
   :image_url => "/images/students/gschool1/taneja.jpg",
   :email_address => "nikhil.a.taneja@gmail.com",
-  :looking_for_description => "I am a full-stack developer looking to join a startup excited about the products they are building. I thrive in fast-paced environments where continuous learning is encouraged.",
-  :best_at => ['Problem solving', 'Ruby', 'Rails', 'TDD', 'Getting things done'],
+  :looking_for_description => "I am a full-stack developer with a background in corporate and startup strategy. I'm looking for a fast-paced environment where continuous learning is encouraged.",
+  :best_at => ['Problem solving', 'Ruby', 'Rails', 'TDD', 'Business strategy'],
   :looking_for => ["Building products", "Technical challenges", "Continuous learning", 'Mentorship'],
-  :locations => ["San Francisco, CA", "New York, NY"],
+  :locations => ["San Francisco, CA", "New York, NY", "Washington, DC"],
   :code => {
     :github => 'https://github.com/nikhiltaneja',
     :project_1 => {
@@ -23,9 +23,9 @@
     },
     :project_3 => {
       :title => "Friend Connect",
-      :description => "Facilitates event planning among friends in the same city. I used Devise, jQuery, and ActionMailer to build a one-page application",
+      :description => "Facilitates event planning among friends in the same city. I used Devise, jQuery, Resque/Redis, and SendGrid to build a one-page application",
       :url => 'https://github.com/nikhiltaneja/friend_connect',
-      :what_to_look_for => ['Test coverage', 'Pushing logic down to the model', 'Front-end design']
+      :what_to_look_for => ['Test coverage', 'Pushing logic down to the model', 'Background workers']
     }
   },
   :resume => "http://www.linkedin.com/in/nikhiltaneja1",
