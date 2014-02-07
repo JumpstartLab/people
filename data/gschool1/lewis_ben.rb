@@ -3,15 +3,15 @@
   :first_name => "Ben",
   :image_url => "/images/students/gschool1/lewis.jpg",
   :email_address => "bennlewis@gmail.com",
-  :looking_for_description => "I’m seeking a position where value is placed on the craft of programming via pairing, TDD, and a dedication continuous learning. I want to collaborate creatively with colleagues to build elegant solutions to difficult problems.",
+  :looking_for_description => "I’m seeking a position where value is placed on the craft of programming via pairing, TDD, and a dedication to continuous learning. I want to collaborate creatively with colleagues to build elegant solutions to difficult problems.",
   :best_at => ['Test Driven Development', 'Software Architecture Design', 'Solving Complex Problems', 'Collaboration'],
-  :looking_for => ["Difficult Problems", "Continuous Learning", "Great Office Culture"],
+  :looking_for => ["Full Stack Development", "Solving Difficult Problems", "Continuous Learning"],
   :locations => ["Boulder, CO", "Denver, CO"],
   :code => {
     :github => 'https://github.com/fluxusfrequency',
     :project_1 => {
       :title => "Noshify - Multi-Tenant Restaurant Ordering Platform.",
-      :description => "Software as a Service for restaurant owners I developed with two gSchool classmates. We inherited a Rails project and extended it to support multi-tenancy.",
+      :description => "Software as a Service Rails Application for restaurant owners I developed with two gSchool classmates. We inherited a Rails project and extended it to support multi-tenancy.",
       :url => 'https://github.com/fluxusfrequency/fourth_meal',
       :what_to_look_for => ['High Test Coverage', 'Multiple Permission Levels', 'Performance Enhancement via Database Indexing, Caching, and Background Workers']
     },
