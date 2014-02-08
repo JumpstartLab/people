@@ -6,7 +6,7 @@
   :looking_for_description => "I'm on the hunt for a great team building great products. I thrive in tight-knit, collaborative environments and love working with dedicated, driven teammates. I'm passionate about education, conservation, healthcare, design and great user experiences. I continually seek out ways to learn new skills and push myself outside of my comfort zone, and I take great pride in doing the best work possible.",
   :best_at => ['Pair programming', 'TDD', 'Attention to detail and love of well crafted code'],
   :looking_for => ["Continued learning and growth as a developer", 'Supportive team environment', "A blend of front and back-end responsibilities"],
-  :locations => ["Denver, CO", "Boulder, CO", "San Francisco, CA", "Seattle, WA", "Boston, MA", "Washington, DC"],
+  :locations => ["Denver, CO", "Boulder, CO", "San Francisco, CA", "Seattle, WA", "Portland, OR", "Austin, TX"],
   :code => {
     :github => 'https://github.com/LouisaBarrett',
     :project_1 => {
