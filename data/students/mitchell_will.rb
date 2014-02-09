@@ -5,13 +5,13 @@
   :email_address => "wvmitchell@gmail.com",
   :looking_for_description => "I love that as a software developer, my education is never over. There is always a new technology to learn, or a new methodology to try out. I want to work with a team that values creative thinking, disruptive business solutions, and continuous mentorship.",
   :best_at => ['Ruby on Rails', 'Refactoring', 'Testing'],
-  :looking_for => ["Intelectual Challenges", "Building Products", "Team Collaboration"],
+  :looking_for => ["Intellectual Challenges", "Building Products", "Team Collaboration"],
   :locations => ["Boulder, CO", "Denver, CO", "San Francisco, CA", "Portland, OR", "New York, NY"],
   :code => {
     :github => 'https://github.com/wvmitchell',
     :project_1 => {
       :title => "SocialSmarts",
-      :description => "This Rails project used the Twitter API to create an email like client, which would allow a user to better track and respond to tweets mentioning them.",
+      :description => "This Rails project used the Twitter API to create an email-like client, which would allow a user to better track and respond to @mentions on Twitter.",
       :url => 'https://github.com/wvmitchell/SocialSmarts',
       :what_to_look_for => ['- Use of Resque and Redis for background work', '- Wrapping of Twitter gem and Klout API dependencies', '- Use of jQuery AJAX for improved UX']
     },
