@@ -6,7 +6,7 @@
   :looking_for_description => "The nitty-gritty, it's what I like... I don't _just_ want to join a company - I want to join a team. I want to work with a group of people that care about educating each-other and working towards a common goal. I'm eager to continually push myself to become a better programmer.",
   :best_at => ['Utilizing TDD - to drive cleanly written code", "Finding bugs and documenting the fix", "Brainstorming new ideas with my team'],
   :looking_for => ["Quality Assurance", "Continuous Learning", "Building Products"],
-  :locations => ["Boulder, CO", "Longmont, CO", "Ft. Collins, CO", "Denver, CO"],
+  :locations => ["Boulder, CO", "Longmont, CO", "Fort Collins, CO", "Denver, CO"],
   :code => {
     :github => 'https://github.com/dpequeen',
     :project_1 => {
