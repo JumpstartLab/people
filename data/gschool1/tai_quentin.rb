@@ -6,7 +6,7 @@
   :looking_for_description => "Quentin is **cofounding a startup** called [Lynxsy](www.lynxsy.com) in New York City.\n\nDevelopment and continuous learning will always be a passion of mine. I want to be able to effortlessly communicate the skills that I learn with my peers.",
   :best_at => ['Refactoring', 'Debugging', 'Problem-Solving'],
   :looking_for => ["A Challenge"],
-  :locations => ["NYC"],
+  :locations => ["New York, NY"],
   :code => {
     :github => 'https://github.com/quillyt',
     :project_1 => {
