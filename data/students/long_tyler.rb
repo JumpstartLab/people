@@ -29,6 +29,6 @@
     }
   },
   :resume => "https://www.dropbox.com/s/uay2vj52wz96rtf/Tyler_Long_Resume.pdf",
-  :references => [''],
+  :references => [''], 
   :other_notes => "You can find me on Twitter @teapane.  I love to travel and can whip up a mean meal."
 }
