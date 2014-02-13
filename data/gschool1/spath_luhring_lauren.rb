@@ -16,8 +16,9 @@
       :what_to_look_for => ['a gorgeous custom front end', 'significant test coverage', 'an API wrapper gem that maintain separation between Runline and third-party APIs ']
     },
     :project_2 => {
-      :title => "FreshFinder (in progress)",
-      :description => "FreshFinder is a multi-services app that allows users to find reliable farmers market information.  Users can view markets on a map and search by name or location.  They also have the ability to rate and review markets and to edit information, ensuring content is up to date.",
+      :title => "FreshFinder",
+      :description => "FreshFinder is a service-oriented architecture project built using multiple apps that speak to each other while providing a unified user interface.  Visitors are able to find reliable farmers’ market information, view markets on a map, and search by name or location.  They can also write reviews of markets.
+",
       :url => 'https://github.com/FreshFinder',
       :what_to_look_for => ['multiple services working together', 'high percentage of test coverage', 'JavaScript front end' ]
     },
@@ -28,7 +29,7 @@
       :what_to_look_for => ['integration with SMS service Twilio']
     },
   },
-  :resume => "http://cl.ly/3G3z0a0f0m0V",
+  :resume => "http://cl.ly/1K1x2F0x0Y2l",
   :references => ['Jeff Casimir', 'Rachel Lubin'],
   :other_notes => "",
   :group => "gschool1"
