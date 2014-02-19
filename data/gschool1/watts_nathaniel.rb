@@ -1,6 +1,6 @@
 {
-  :last_name => "Nathaniel",
-  :first_name => "Watts",
+  :last_name => "Watts",
+  :first_name => "Nathaniel",
   :image_url => "/images/students/gschool1/watts.jpg",
   :email_address => "watts@nathanielwatts.com",
   :looking_for_description => "I don't just want to settle with being a decent programmer - I want to be an expert of my craft. I love learning, being challenged, and working on passionate - driven - teams. My desire is to work in an environment that solves real problems with sustainable solutions, and values teammates both in and out of the office.",
