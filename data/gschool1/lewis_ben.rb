@@ -3,7 +3,7 @@
   :first_name => "Ben",
   :image_url => "/images/students/gschool1/lewis.jpg",
   :email_address => "bennlewis@gmail.com",
-  :looking_for_description => "I’m seeking a position where value is placed on the craft of programming via pairing, TDD, and a dedication to continuous learning. I want to collaborate creatively with colleagues to build elegant solutions to difficult problems.",
+  :looking_for_description => "Ben has **accepted a position** with [Quick Left](http://www.quickleft.com/) in Boulder.\n\nI’m seeking a position where value is placed on the craft of programming via pairing, TDD, and a dedication to continuous learning. I want to collaborate creatively with colleagues to build elegant solutions to difficult problems.",
   :best_at => ['Test Driven Development', 'Software Architecture Design', 'Solving Complex Problems', 'Collaboration'],
   :looking_for => ["Full Stack Development", "Solving Difficult Problems", "Continuous Learning"],
   :locations => ["Boulder, CO", "Denver, CO"],

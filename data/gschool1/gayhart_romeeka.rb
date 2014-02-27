@@ -4,7 +4,7 @@
   :image_url => "/images/students/gschool1/gayhart.jpg",
   :email_address => "rrgayhart@gmail.com",
   :website => "http://meekaetal.com/",
-  :looking_for_description => "Full-stack Ruby on Rails Developer seeking a company that invests in employee development and is commited to sustainable growth. Hoping for the chance to learn and work with a team of problem solvers.",
+  :looking_for_description => "Meeka has **accepted a position** with [Quick Left](http://www.quickleft.com/) in Boulder.\n\nFull-stack Ruby on Rails Developer seeking a company that invests in employee development and is commited to sustainable growth. Hoping for the chance to learn and work with a team of problem solvers.",
   :best_at => ['Test Coverage', 'Enthusiasm in the Face of Error Messages', 'Project Management'],
   :looking_for => ["Open Source Positive Environments", "Challenging Problems"],
   :locations => ["New Orleans, LA", "Boulder, CO", "Denver, CO", "Portland, OR", "Seattle, WA"],
