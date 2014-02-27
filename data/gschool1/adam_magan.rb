@@ -3,7 +3,7 @@
   :first_name => "Magan",
   :image_url => "/images/students/gschool1/adam.jpg",
   :email_address => "Adam.dev89@gmail.com",
-  :looking_for_description => "I seek to join a company that places emphasis on continous learning, pair programming and TDD. A developer centric organisation that places a lot of responsibility and trust in their developers.",
+  :looking_for_description => "Adam has **accepted a position** with [thoughtbot](http://thoughtbot.com) in Denver.\n\nI seek to join a company that places emphasis on continous learning, pair programming and TDD. A developer centric organisation that places a lot of responsibility and trust in their developers.",
   :best_at => ['Test Driven Development', 'Clean Code', 'Problem Solving'],
   :looking_for => ["Continuous Learning", "Consultancy", "Great Culture"],
   :locations => ["West Midlands, UK", "London, UK"],
