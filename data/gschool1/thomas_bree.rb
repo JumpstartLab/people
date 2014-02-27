@@ -3,7 +3,7 @@
   :first_name => "Bree",
   :image_url => "/images/students/gschool1/thomas.jpg",
   :email_address => "bree@aha-method.com",
-  :looking_for_description => "Bree has **accepted a position** with [iTriage](http://itriage.com) in Denver.\n\nI am looking to join a team that invests in the growth of its developers and values the craft of building products and solutions that are amazing on the outside and well-built on the inside. As a new developer, I bring enthusiasm and a desire to learn and collaborate with others.",
+  :looking_for_description => "Bree has **accepted a position** with [iTriage](http://itriagehealth.com) in Denver.\n\nI am looking to join a team that invests in the growth of its developers and values the craft of building products and solutions that are amazing on the outside and well-built on the inside. As a new developer, I bring enthusiasm and a desire to learn and collaborate with others.",
   :best_at => ['Empathy for the User', 'Creative Problem Solving', 'Spotting Devilish Details'],
   :looking_for => ["Learning Environment", "Challenging Problems to Solve", "Fun Atmosphere"],
   :locations => ["Denver, CO"],
