@@ -28,7 +28,7 @@
       :what_to_look_for => ['Sinatra', 'Customizable & Updatable Menu System', 'Admin Dashboard']
     }
   },
-  :resume => 'https://www.dropbox.com/s/mgii4xyfqpb18j3/Jonah%20Moses%20Dev%20Resume.pdf',
+  :resume => 'https://www.dropbox.com/s/99h2p7yq8qcxrvt/Jonah%20Moses%20Resume.pdf',
   :references => ['Katrina Owen', 'Franklin Webber', 'Jeff Casimer', 'Mathew Kirk', 'Blair Anderson'],
   :other_notes => 'Find me on twitter at @jonahmoses, would love to pair or talk nerd!'
 }
