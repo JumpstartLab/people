@@ -3,7 +3,7 @@
   :first_name => "Persa",
   :image_url => "/images/students/gschool1/zula.jpg",
   :email_address => "persa@persazula.com",
-  :looking_for_description => "I love to build things that have an impact. I want to solve problems that affect a broad range of people",
+  :looking_for_description => "Persa has **accepted a position** with [Hireology](http://www.hireology.com/) remotely from Akron, OH.\n\nI love to build things that have an impact. I want to solve problems that affect a broad range of people",
   :best_at => ['Behavior-Driven Development', 'Helping others succeed', 'Getting Things Done!'],
   :looking_for => ["Backend Developer", 'Software Engineer', "Developer Evangelist"],
   :locations => ["Remote", "Akron, OH", "Cleveland, OH", "Columbus, OH"],
