@@ -3,7 +3,7 @@
   :first_name => "Nathaniel",
   :image_url => "/images/students/gschool1/watts.jpg",
   :email_address => "watts@nathanielwatts.com",
-  :looking_for_description => "I don't just want to settle with being a decent programmer - I want to be an expert of my craft. I love learning, being challenged, and working on passionate - driven - teams. My desire is to work in an environment that solves real problems with sustainable solutions, and values teammates both in and out of the office.",
+  :looking_for_description => "Nathaniel has **accepted a position** with [Oven Bits](http://ovenbits.com/) in Dallas, TX.\n\nI don't just want to settle with being a decent programmer - I want to be an expert of my craft. I love learning, being challenged, and working on passionate - driven - teams. My desire is to work in an environment that solves real problems with sustainable solutions, and values teammates both in and out of the office.",
   :best_at => ['Test Driven Development', 'Solving Real Problems with Software', 'Teamwork / Teambuilding'],
   :looking_for => ["Best Practices", "Continuous Learning", "Passion for Excellence", "Great Team Dynamics & Culture"],
   :locations => ["Boulder, CO", "Denver, CO", "Dallas, TX", "Chicago, IL", "Remote"],
