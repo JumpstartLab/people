@@ -3,7 +3,7 @@
   :first_name => "Billy",
   :image_url => "/images/students/gschool1/griffin.jpg",
   :email_address => "billy@miltraveler.com",
-  :looking_for_description => "I am Co-founder of Base Directory, a mobile and web-based application to help service members and their families find information on military bases. I am interested in learning about new opportunities and participate in creating exciting products, so please don't hesitate to contact me.",
+  :looking_for_description => "Billy is **returning to work** on [Base Directory](http://basedirectory.com/) in Denver.\n\nI am Co-founder of Base Directory, a mobile and web-based application to help service members and their families find information on military bases. I am interested in learning about new opportunities and participate in creating exciting products, so please don't hesitate to contact me.",
   :best_at => ['Understanding Business Value', 'Back-end Web Development', "Problem Solving"],
   :looking_for => ["Creating cool stuff that helps people", "Fun and Engaging Work Environment", "Mentorship", "Autonomous Culture"],
   :locations => ["Denver, CO", "Washington, DC", "San Francisco, CA", "New York, NY"],
