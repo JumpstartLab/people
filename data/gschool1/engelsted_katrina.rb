@@ -4,7 +4,7 @@
   :image_url => '/images/students/gschool1/engelsted.jpg',
   :email_address => 'katrina@engelsted.co',
   :skype_username => 'katrina.engelsted',
-  :looking_for_description => 'Katrina has **accepted a position** with the [National Park Service](http://nps.gov) in Denver.\n\nKatrina is looking for a collaborative, mentoring environment (preferably one that works with geospatial analytics and/or maps). She seeks a place that encourages transparency, communication, TDD and agile development.',
+  :looking_for_description => "Katrina has **accepted a position** with the [National Park Service](http://nps.gov) in Denver.\n\nKatrina is looking for a collaborative, mentoring environment (preferably one that works with geospatial analytics and/or maps). She seeks a place that encourages transparency, communication, TDD and agile development.",
   :best_at => ['GeoJSON', 'Flexibility', 'Communication', 'Design'],
   :looking_for => ['Continuous Learning', 'Exposure to all things Javascript', 'Open Source', 'Encouraging, Fun Environment'],
   :locations => ['Denver, CO','Boulder, CO', 'Remote'],
