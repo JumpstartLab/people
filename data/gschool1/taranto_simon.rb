@@ -3,7 +3,7 @@
   :first_name => "Simon",
   :image_url => "/images/students/gschool1/taranto.jpg",
   :email_address => "simon.taranto@gmail.com",
-  :looking_for_description => "I am looking for a team that cares about the growth of their developers and pushes team members to constantly improve.  I would like to work in an environment where learning from breaking things is encouraged and new languages and techniques are explored frequently.",
+  :looking_for_description => "Simon has **accepted a position** with [thoughtbot](http://thoughtbot.com) in San Francisco.\n\nI am looking for a team that cares about the growth of their developers and pushes team members to constantly improve.  I would like to work in an environment where learning from breaking things is encouraged and new languages and techniques are explored frequently.",
   :best_at => ['Ruby on Rails', 'TDD', 'Data modeling', 'Keeping a positive attitude when things go wrong'],
   :looking_for => ["Polyglotism", "Small Teams", "Big Systems"],
   :locations => ["San Francisco, CA"],
