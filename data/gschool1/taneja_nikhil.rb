@@ -3,7 +3,7 @@
   :first_name => "Nikhil",
   :image_url => "/images/students/gschool1/taneja.jpg",
   :email_address => "nikhil.a.taneja@gmail.com",
-  :looking_for_description => "I am a full-stack developer with a background in corporate and startup strategy. I'm looking for a fast-paced environment where continuous learning is encouraged.",
+  :looking_for_description => "Nikhil is **cofounding [SwiftIntro](http://swiftintro.com)** in NYC.\n\nI am a full-stack developer with a background in corporate and startup strategy. I'm looking for a fast-paced environment where continuous learning is encouraged.",
   :best_at => ['Problem solving', 'Ruby', 'Rails', 'TDD', 'Business strategy'],
   :looking_for => ["Building products", "Technical challenges", "Continuous learning", 'Mentorship'],
   :locations => ["San Francisco, CA", "New York, NY", "Washington, DC"],
