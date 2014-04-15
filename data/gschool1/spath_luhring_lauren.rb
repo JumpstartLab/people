@@ -3,7 +3,7 @@
   :first_name => "Lauren",
   :image_url => "/images/students/gschool1/spath.jpg",
   :email_address => "lespath@gmail.com",
-  :looking_for_description => "I'm a full stack developer eager to take what I've learned at gSchool and use it to sink my teeth into an impactful project with other smart, driven people.  I'd love to be a part of an agile team that supports continuous learning, drives behavior and development with tests, and laughs a lot while doing so.",
+  :looking_for_description => "Lauren has **accepted a position** with [NREL](http://www.nrel.gov/) in Golden, CO.\n\nI'm a full stack developer eager to take what I've learned at gSchool and use it to sink my teeth into an impactful project with other smart, driven people.  I'd love to be a part of an agile team that supports continuous learning, drives behavior and development with tests, and laughs a lot while doing so.",
   :best_at => ['writing clean code', 'problem solving', 'project management', 'timely animated gifs'],
   :looking_for => ['support as I continue to grow as a developer', 'new challenges to tackle every day', 'a collaborative team environment'],
   :locations => ["Boulder, CO", "Denver, CO"],
