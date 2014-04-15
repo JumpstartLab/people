@@ -3,7 +3,7 @@
   :first_name => "Rolen",
   :image_url => "/images/students/gschool1/le.jpg",
   :email_address => "rolentle@gmail.com",
-  :looking_for_description => "Rolen has **accepted a position** in NYC.\n\nI am looking to join a company that wants to build a sustainable business and offers opportunities to grow both technically and professionally through continuous learning and mentorship. I want to work for a company that values communication and collaboration more than using the newest technologies.",
+  :looking_for_description => "Rolen has **accepted a remote position** with [WellMatch](http://www.wellmatchhealth.com/).\n\nI am looking to join a company that wants to build a sustainable business and offers opportunities to grow both technically and professionally through continuous learning and mentorship. I want to work for a company that values communication and collaboration more than using the newest technologies.",
   :best_at => ['Persistent Problem-Solving', 'Debugging', 'Collaboration'],
   :looking_for => ['Building Products That Matter' "Working With Big Data","Full Stack Development"],
   :locations => ["New York, NY", "Washington, DC", "Atlanta, GA"],
