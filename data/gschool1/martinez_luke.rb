@@ -3,7 +3,7 @@
   :first_name => "Luke",
   :image_url => "/images/students/gschool1/martinez.jpg",
   :email_address => "lukemartinez@gmail.com",
-  :looking_for_description => "I am eager to grow as a programmer. I want to work for a company that values agile development, and invests in the growth of its new developers.",
+  :looking_for_description => "Luke has **accepted a position** with [SendGrid](http://sengrid.com) in Denver.\n\nI am eager to grow as a programmer. I want to work for a company that values agile development, and invests in the growth of its new developers.",
   :best_at => ['Ruby', 'Rails', 'Communication', 'Collaboration'],
   :looking_for => ["Full stack development", "Agile practices", "Challenging problems", "A good learning environment"],
   :locations => ["Denver, CO"],
