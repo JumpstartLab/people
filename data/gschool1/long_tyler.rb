@@ -3,7 +3,7 @@
   :first_name => "Tyler",
   :image_url => "/images/students/gschool1/long.jpg",
   :email_address => "tyler.stephen.long@gmail.com",
-  :looking_for_description => "I am not only looking for a company that will make me a better programmer, but also a solid team that values TDD, agile development, and a strong commitment to learning. ",
+  :looking_for_description => "Tyler has **accepted a remote position** at [Rent Path](http://rentpath.com/). I am not only looking for a company that will make me a better programmer, but also a solid team that values TDD, agile development, and a strong commitment to learning. ",
   :best_at => ['Testing', 'Ruby', 'Rails', 'Problem Solving', 'Collaboration'],
   :looking_for => ["Full Stack Development", "Pair Programming", "Exposure to different programming languages"],
   :locations => ["Berlin, DE", "New York, NY", "Sydney, AU", "Seattle, WA", "Boulder, CO", "San Francisco, CA", "Portland, OR"],
