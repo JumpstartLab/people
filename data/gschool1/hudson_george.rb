@@ -3,7 +3,7 @@
   :first_name => "George",
   :image_url => "/images/students/gschool1/hudson.jpg",
   :email_address => "georgehudson78@gmail.com",
-  :looking_for_description => "After just switching careers to learn a new skill set, I am adamant about placing myself in a position where I can continue to grow in the programming field, ideally in an education, medical, or literary setting.",
+  :looking_for_description => "George has **accepted a position** with [6kites](http://www.6kites.com/) in Boulder.\n\nAfter just switching careers to learn a new skill set, I am adamant about placing myself in a position where I can continue to grow in the programming field, ideally in an education, medical, or literary setting.",
   :best_at => ['Ruby', 'Communication', 'Collaboration'],
   :looking_for => ["Full stack development", "Agile practices", "Apprenticeship/Mentoring programs", "Fun, cooperative environment focused on continued business and employee growth"],
   :locations => ["Denver, CO", "Boulder, CO", "Fort Collins, CO", "Flexible"],
