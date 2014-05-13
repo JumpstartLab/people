@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+ruby '2.0.0'
 
 gem "middleman", "~>3.0.11"
 gem 'rake'
@@ -12,4 +13,5 @@ group :development do
   gem "rspec"
   gem "guard-rspec"
   gem "shotgun"
+  gem "pry", :require => 'pry'
 end

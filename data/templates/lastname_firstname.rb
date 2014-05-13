@@ -1,7 +1,7 @@
 {
   :last_name => "First Name",
   :first_name => "Last Name",
-  :image_url => "/images/students/gschool1/first_name.jpg",
+  :image_url => "/images/students/gschool1/last_name.jpg",
   :email_address => "me@example.com",
   :looking_for_description => "I don't _just_ want to join a company, I want to join a team. I want to work with a group of people that care about educating each-other and working towards a common goal. I'm most passionate about disrupting politics, healthcare, payments, and education but would be happy to work outside of these industries. I'm eager to pair with amazing programmers, and to continually become better.",
   :best_at => ['Testing First', 'Writing Clean Code', 'Getting Things Done!'],
@@ -30,5 +30,6 @@
   },
   :resume => "http://blairbuilds.herokuapp.com/resume.html",
   :references => ['Katrina Owen', 'John Mentor', 'Billy\'s Cats'],
-  :other_notes => "I am Awesome. Find me on twitter at @sinatrarb"
+  :other_notes => "I am Awesome. Find me on twitter at @sinatrarb",
+  :group => 'gschool1'
 }

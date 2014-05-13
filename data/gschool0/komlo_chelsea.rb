@@ -30,5 +30,6 @@
   },
   :resume => "https://www.dropbox.com/s/pphlcnvdk5lavh8/Chelsea%20Holland%20Komlo%20Resume%202013.pdf",
   :references => ['Ben Johnson, Tony Mugavero, Katrina Owen'],
-  :other_notes => "I like solving hard problems that make people's lives better."
+  :other_notes => "I like solving hard problems that make people's lives better.",
+  :group => 'gschool0'
 }

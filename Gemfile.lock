@@ -142,6 +142,7 @@ DEPENDENCIES
   foreman
   guard-rspec
   middleman (~> 3.0.11)
+  pry
   puma
   rack-contrib
   rack-rewrite

@@ -4,12 +4,8 @@
     <%= link_to image_tag(student.image_url, alt: student.name), student_path(student) %>
   </div>
   <div class="info">
-    <%= markdown(truncate(student.looking_for_description, length: 425, omission: "...")) %>
+    <% description = truncate(student.looking_for_description, length: 400, omission: "...") %>
+    <%= markdown(description) %>
+    <a href='<%= student_path(student) %>' class='portfolio-link'><%= student.first_name %>'s portfolio&nbsp;&raquo;</a>
   </div>
-  <div class='portfolio_link'>
-    <a href='<%= student_path(student) %>'>
-      Full Portfolio >>
-    </a>
-  </div>
-
 </li>

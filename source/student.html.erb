@@ -16,13 +16,13 @@
     </li>
     <% end %>
     <li>
-      <a href='<%= student.github_url %>'>
+      <a href='<%= student.github_url %>' target="blank">
         <%= image_tag 'github.gif', :class => 'icon' %>
         <span class='icon_description'>Github Repositories</span>
       </a>
     </li>
     <li>
-      <a href='<%= student.resume %>'>
+      <a href='<%= student.resume %>' target="blank">
         <%= image_tag 'paper.png', :class => 'icon' %>
         <span class='icon_description'>Full Resume</span>
       </a>
@@ -42,7 +42,7 @@
       <% end %>
     </dl>
     <dl>
-      <dt>Preferred Roles</dt>
+      <dt>Looking For</dt>
       <% student.looking_for.each do |looking_for| %>
         <dd><%= looking_for %></dd>
       <% end %>
@@ -61,7 +61,7 @@
     <div class="project">
       <img src="/images/github-project.png" />
       <h3><%= project.title %></h3>
-      <p><%= link_to project.url, project.url %></p>
+      <p><%= link_to project.url, project.url, :target => "_blank" %></p>
       <p><%= project.description %></p>
       <dl>
         <dt>What to look for</dt>

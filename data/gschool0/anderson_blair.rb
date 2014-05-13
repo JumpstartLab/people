@@ -30,5 +30,6 @@
   },
   :resume => "http://blairbuilds.herokuapp.com/resume.html",
   :references => [''],
-  :other_notes => "I am Awesome. Find me on twitter @blairanderson"
+  :other_notes => "I am Awesome. Find me on twitter @blairanderson",
+  :group => 'gschool0'
 }

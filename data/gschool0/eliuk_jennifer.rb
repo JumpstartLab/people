@@ -30,5 +30,7 @@
   },
   :resume => "jennifereliuk.com",
   :references => ['Mike Gehard, Pivotal Labs', 'Cory Flanigan, Groupon', 'Katrina Owen, Jumpstart Lab'],
-  :other_notes => "I had no programming experience before gSchool except for one Railsbridge workshop. I now attend Railsbridge as a TA, and helping others learn to program is important to me. I hold both U.S. and Canadian passports and am happy to relocate."
+  :other_notes => "I had no programming experience before gSchool except for one Railsbridge workshop. I now attend Railsbridge as a TA, and helping others learn to program is important to me. I hold both U.S. and Canadian passports and am happy to relocate.",
+  :group => 'gschool0'
+  
 }

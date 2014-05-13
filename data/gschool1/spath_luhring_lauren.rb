@@ -1,0 +1,36 @@
+{
+  :last_name => "Spath Luhring",
+  :first_name => "Lauren",
+  :image_url => "/images/students/gschool1/spath.jpg",
+  :email_address => "lespath@gmail.com",
+  :looking_for_description => "Lauren has **accepted a position** with [NREL](http://www.nrel.gov/) in Golden, CO.\n\nI'm a full stack developer eager to take what I've learned at gSchool and use it to sink my teeth into an impactful project with other smart, driven people.  I'd love to be a part of an agile team that supports continuous learning, drives behavior and development with tests, and laughs a lot while doing so.",
+  :best_at => ['writing clean code', 'problem solving', 'project management', 'timely animated gifs'],
+  :looking_for => ['support as I continue to grow as a developer', 'new challenges to tackle every day', 'a collaborative team environment'],
+  :locations => ["Boulder, CO", "Denver, CO"],
+  :code => {
+    :github => 'https://github.com/edatrix',
+    :project_1 => {
+      :title => "Runline",
+      :description => "Runline enables users to track activities with a personalized dashboard and feed of their runs and to follow and compare data with friends. Learning focused on consumption of third-party APIs, use of background workers, TDD at all levels of development, and a fantastic user experience with an emphasis on performance.",
+      :url => 'https://github.com/edatrix/runline',
+      :what_to_look_for => ['a gorgeous custom front end', 'significant test coverage', 'an API wrapper gem that maintain separation between Runline and third-party APIs ']
+    },
+    :project_2 => {
+      :title => "FreshFinder",
+      :description => "FreshFinder is a service-oriented architecture project built using multiple apps that speak to each other while providing a unified user interface.  Visitors are able to find reliable farmers’ market information, view markets on a map, and search by name or location.  They can also write reviews of markets.
+",
+      :url => 'https://github.com/FreshFinder',
+      :what_to_look_for => ['multiple services working together', 'high percentage of test coverage', 'JavaScript front end' ]
+    },
+    :project_3 => {
+      :title => "IdeaBox",
+      :description => "IdeaBox is a simple web application (my very first!) that allows users to record ideas.  Built using Ruby, this project was an introduction to Sinatra and an experiment in front end design.",
+      :url => 'https://github.com/edatrix/idea-box',
+      :what_to_look_for => ['integration with SMS service Twilio']
+    },
+  },
+  :resume => "http://cl.ly/1K1x2F0x0Y2l",
+  :references => ['Jeff Casimir', 'Rachel Lubin'],
+  :other_notes => "",
+  :group => "gschool1"
+}

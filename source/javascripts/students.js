@@ -12,12 +12,6 @@ var Students = function(selectors) {
       $(this).removeClass('hover');
     });
 
-    $(selector).on("click",function() {
-      if ( $(this).data('url') ) {
-        document.location.href = $(this).data('url');
-      }
-    })
-
   },this));
 
   this.students = students;
