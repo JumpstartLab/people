@@ -3,7 +3,7 @@
   :first_name => "Will",
   :image_url => "/images/students/gschool1/mitchell.jpg",
   :email_address => "wvmitchell@gmail.com",
-  :looking_for_description => "I love that as a software developer, my education is never over. There is always a new technology to learn, or a new methodology to try out. I want to work with a team that values creative thinking, disruptive business solutions, and continuous mentorship.",
+  :looking_for_description => "Will has **accepted a position** with [StoryVine](http://www.storyvine.com) in Denver.\n\nI love that as a software developer, my education is never over. There is always a new technology to learn, or a new methodology to try out. I want to work with a team that values creative thinking, disruptive business solutions, and continuous mentorship.",
   :best_at => ['Ruby on Rails', 'Refactoring', 'Testing'],
   :looking_for => ["Intellectual Challenges", "Building Products", "Team Collaboration"],
   :locations => ["Boulder, CO", "Denver, CO", "San Francisco, CA", "Portland, OR", "New York, NY"],
