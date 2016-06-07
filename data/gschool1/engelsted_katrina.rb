@@ -1,7 +1,7 @@
 {
   :last_name => 'Engelsted',
   :first_name => 'Katrina',
-  :image_url => '/images/students/gschool1/engelsted.jpg',
+  :image_url => 'https://www.nps.gov/npmap/team/assets/img/katrina_engelsted.jpg',
   :email_address => 'katrina@engelsted.co',
   :skype_username => 'katrina.engelsted',
   :looking_for_description => "Katrina has **accepted a position** with the [National Park Service](http://nps.gov) in Denver.\n\nKatrina is looking for a collaborative, mentoring environment (preferably one that works with geospatial analytics and/or maps). She seeks a place that encourages transparency, communication, TDD and agile development.",
